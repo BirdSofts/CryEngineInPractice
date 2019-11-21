@@ -5832,7 +5832,7 @@
 			"type": "Level",
 			"guid": "90f6f9d4-0804-283c-02dc-2d438ba572bd",
 			"name": "example",
-			"timestamp": 1573731412,
+			"timestamp": 1574279671,
 			"files": [ "Levels/example/example.level" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5886,6 +5886,10 @@
 					"usageCount": 0
 				},
 				{
+					"path": "%engine%/engineassets/materials/material_layers_default.mtl",
+					"usageCount": 0
+				},
+				{
 					"path": "%engine%/engineassets/materials/material_terrain_default.mtl",
 					"usageCount": 0
 				},
@@ -5898,6 +5902,10 @@
 					"usageCount": 0
 				},
 				{
+					"path": "%engine%/engineassets/objects/primitive_sphere.cgf",
+					"usageCount": 0
+				},
+				{
 					"path": "%engine%/engineassets/texturemsg/defaultnouvs.dds",
 					"usageCount": 0
 				},
@@ -5906,19 +5914,7 @@
 					"usageCount": 0
 				},
 				{
-					"path": "%engine%/engineassets/textures/defaults/16_12.dds",
-					"usageCount": 0
-				},
-				{
-					"path": "%engine%/engineassets/textures/defaults/16_34.dds",
-					"usageCount": 0
-				},
-				{
-					"path": "%engine%/engineassets/textures/defaults/16_5.dds",
-					"usageCount": 0
-				},
-				{
-					"path": "%engine%/engineassets/textures/defaults/16_grey.dds",
+					"path": "%engine%/engineassets/textures/skys/night/half_moon.dds",
 					"usageCount": 0
 				},
 				{ "path": "%engine%/engineassets/textures/white.dds", "usageCount": 0 },
@@ -6125,17 +6121,26 @@
 				},
 				{ "path": "animations/motusanims/walk_bck_3p.caf", "usageCount": 0 },
 				{ "path": "animations/motusanims/walk_fwd_3p.caf", "usageCount": 0 },
-				{ "path": "engineassets/materials/sky/sky.mtl", "usageCount": 0 },
+				{
+					"path": "editor/resourcecache/objects/characters/samplecharacter/mcg_ddna.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "editor/resourcecache/objects/characters/samplecharacter/mcg_diff.dds",
+					"usageCount": 0
+				},
+				{
+					"path": "editor/resourcecache/objects/characters/samplecharacter/mcg_spec.dds",
+					"usageCount": 0
+				},
 				{
 					"path": "engineassets/materials/water/ocean_default.mtl",
 					"usageCount": 0
 				},
-				{ "path": "engineassets/texturemsg/defaultnouvs.dds", "usageCount": 0 },
-				{
-					"path": "engineassets/textures/skys/night/half_moon.dds",
-					"usageCount": 0
-				},
-				{ "path": "libs/environmentpresets/example.xml", "usageCount": 0 },
+				{ "path": "libs/environmentpresets/example.env", "usageCount": 1 },
+				{ "path": "materials/object.mtl", "usageCount": 0 },
+				{ "path": "materials/step.mtl", "usageCount": 0 },
+				{ "path": "materials/wall.mtl", "usageCount": 0 },
 				{
 					"path": "objects/characters/samplecharacter/mcg_ddna.dds",
 					"usageCount": 0
@@ -6329,6 +6334,66 @@
 			],
 			"dependencies": [
 				{ "path": "%engine%/EngineAssets/Textures/white.dds", "usageCount": 0 }
+			]
+		},
+		{
+			"type": "Material",
+			"guid": "310e25db-fd93-5fb3-6299-36ee970827ac",
+			"name": "object",
+			"timestamp": 1574195506,
+			"files": [ "Materials/object.mtl" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Materials/object.mtl.cryasset",
+			"details": [
+				{ "key": "subMaterialCount", "value": "0" },
+				{ "key": "textureCount", "value": "1" }
+			],
+			"dependencies": [
+				{
+					"path": "%engine%/engineassets/textures/rain/rainfall.dds",
+					"usageCount": 1
+				}
+			]
+		},
+		{
+			"type": "Material",
+			"guid": "97c29cf1-36f7-c392-9fe4-3d6fd8b76dc8",
+			"name": "step",
+			"timestamp": 1574195431,
+			"files": [ "Materials/step.mtl" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Materials/step.mtl.cryasset",
+			"details": [
+				{ "key": "subMaterialCount", "value": "0" },
+				{ "key": "textureCount", "value": "1" }
+			],
+			"dependencies": [
+				{
+					"path": "%engine%/engineassets/textures/defaults/defaultnouvs.dds",
+					"usageCount": 1
+				}
+			]
+		},
+		{
+			"type": "Material",
+			"guid": "74316d05-4a87-19d5-3dde-c30c9a5d6279",
+			"name": "wall",
+			"timestamp": 1574195846,
+			"files": [ "Materials/wall.mtl" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Materials/wall.mtl.cryasset",
+			"details": [
+				{ "key": "subMaterialCount", "value": "0" },
+				{ "key": "textureCount", "value": "1" }
+			],
+			"dependencies": [
+				{
+					"path": "%engine%/engineassets/texturemsg/DefaultNoUVs.dds",
+					"usageCount": 1
+				}
 			]
 		},
 		{

@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Material" guid="310e25db-fd93-5fb3-6299-36ee970827ac" source="" timestamp="1574195506">
+ <Files>
+  <File path="object.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">1</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">%engine%/engineassets/textures/rain/rainfall.dds</Path>
+ </Dependencies>
+</AssetMetadata>

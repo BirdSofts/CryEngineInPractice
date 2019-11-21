@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\StdAfx.cpp" />
+    <ClCompile Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\solutions\win64\Code_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\solutions\win64\Components_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\GamePlugin.cpp" />
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\GamePlugin.h" />
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\StdAfx.h" />
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\Player.cpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\SpawnPoint.cpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\Bullet.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\Player.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\SpawnPoint.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Code\Components\Pointer.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\solutions\win64\Game.autogen.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Components">
+      <UniqueIdentifier>{F0046504-6330-382F-9501-ADD4B8CC0A0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D0DCAE6D-171B-3ED3-8E82-426C9E161C08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{6FE18215-541D-3BEF-B36E-62DAEC5AC9FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Material" guid="97c29cf1-36f7-c392-9fe4-3d6fd8b76dc8" source="" timestamp="1574195431">
+ <Files>
+  <File path="step.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">1</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">%engine%/engineassets/textures/defaults/defaultnouvs.dds</Path>
+ </Dependencies>
+</AssetMetadata>

@@ -1,6 +1,16 @@
-// Copyright 2001-2019 Crytek GmbH / Crytek Group. All rights reserved.
+﻿// Copyright 2001-2019 Crytek GmbH / Crytek Group. All rights reserved.
 
-#pragma once
+// ********************************************************************************
+/// <summary>
+/// 
+/// </summary>
+/// <created>ʆϒʅ,19.11.2019</created>
+/// <changed>ʆϒʅ,19.11.2019</changed>
+// ********************************************************************************
+
+#ifndef SPAWNPOINT_H
+#define SPAWNPOINT_H
+
 
 #include <CryEntitySystem/IEntitySystem.h>
 
@@ -43,3 +53,6 @@ public:
 		return IDENTITY;
 	}
 };
+
+
+#endif // !SPAWNPOINT_H

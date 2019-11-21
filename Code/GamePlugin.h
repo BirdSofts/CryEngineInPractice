@@ -1,4 +1,14 @@
-#pragma once
+﻿// ********************************************************************************
+/// <summary>
+/// 
+/// </summary>
+/// <created>ʆϒʅ,19.11.2019</created>
+/// <changed>ʆϒʅ,19.11.2019</changed>
+// ********************************************************************************
+
+#ifndef GAMEPLUGIN_H
+#define GAMEPLUGIN_H
+
 
 #include <CrySystem/ICryPlugin.h>
 #include <CryGame/IGameFramework.h>
@@ -61,3 +71,6 @@ protected:
 	// Map containing player components, key is the channel id received in OnClientConnectionReceived
 	std::unordered_map<int, EntityId> m_players;
 };
+
+
+#endif // !GAMEPLUGIN_H

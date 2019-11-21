@@ -22,5 +22,13 @@
     </AnimLayer>
    </Fragment>
   </Walk>
+  <Run>
+   <Fragment BlendOutDuration="0.2" Tags="">
+    <AnimLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Animation name="run_fwd_3p" flags="Loop"/>
+    </AnimLayer>
+   </Fragment>
+  </Run>
  </FragmentList>
 </AnimDB>

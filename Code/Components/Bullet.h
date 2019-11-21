@@ -1,4 +1,14 @@
-#pragma once
+﻿// ********************************************************************************
+/// <summary>
+/// 
+/// </summary>
+/// <created>ʆϒʅ,19.11.2019</created>
+/// <changed>ʆϒʅ,21.11.2019</changed>
+// ********************************************************************************
+
+#ifndef BULLET_H
+#define BULLET_H
+
 
 ////////////////////////////////////////////////////////
 // Physicalized bullet shot from weaponry, expires on collision with another object
@@ -66,3 +76,6 @@ public:
 	}
 	// ~IEntityComponent
 };
+
+
+#endif // !BULLET_H

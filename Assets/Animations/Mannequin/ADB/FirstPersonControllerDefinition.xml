@@ -4,6 +4,7 @@
  <FragmentDefs>
   <Idle scopes="FirstPerson+ThirdPerson" flags="Persistent+AutoReinstall"/>
   <Walk scopes="FirstPerson+ThirdPerson"/>
+  <Run scopes="FirstPerson+ThirdPerson"/>
  </FragmentDefs>
  <ScopeContextDefs>
   <FirstPersonCharacter />
