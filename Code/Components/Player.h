@@ -3,7 +3,7 @@
 /// 
 /// </summary>
 /// <created>ʆϒʅ,19.11.2019</created>
-/// <changed>ʆϒʅ,21.11.2019</changed>
+/// <changed>ʆϒʅ,26.11.2019</changed>
 // ********************************************************************************
 
 #ifndef PLAYER_H
@@ -98,7 +98,10 @@ class CPlayerComponent final : public IEntityComponent
   };
 
 private:
-  bool m_aiming = false;
+  IEntity* m_aimEntity = nullptr;
+  bool m_isAiming = false;
+  float m_aimingDegrees = 1.454545f; // initial to forward face/aiming
+  float m_aimingDegreesReality = .0f;
   bool m_runningForward = false;
 
 public:

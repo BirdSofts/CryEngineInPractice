@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="dc49d310-5eaa-3909-5c6b-77e8bf87a15d">
+ <Files>
+  <File path="aimingPointer2.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">1</Detail>
+  <Detail name="triangleCount">8</Detail>
+  <Detail name="vertexCount">16</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">%ENGINE%/EngineAssets/TextureMsg/DefaultSolids.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

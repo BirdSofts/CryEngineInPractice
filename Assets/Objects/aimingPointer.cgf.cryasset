@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="9f9f91ad-f217-4647-14d9-8a44338d385a">
+ <Files>
+  <File path="aimingPointer.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">1</Detail>
+  <Detail name="triangleCount">8</Detail>
+  <Detail name="vertexCount">16</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">Materials/aim.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

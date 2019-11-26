@@ -3,7 +3,7 @@
 /// 
 /// </summary>
 /// <created>ʆϒʅ,19.11.2019</created>
-/// <changed>ʆϒʅ,21.11.2019</changed>
+/// <changed>ʆϒʅ,26.11.2019</changed>
 // ********************************************************************************
 
 #include "StdAfx.h"
@@ -106,9 +106,9 @@ void CPlayerComponent::InitializeLocalPlayer ()
   m_pInputComponent->RegisterAction ( "player", "aim", [this]( int activationMode, float value )
                                       {
                                         if (activationMode == eAAM_OnPress)
-                                          m_aiming = true;
+                                          m_isAiming = true;
                                         if (activationMode == eAAM_OnRelease)
-                                          m_aiming = false;
+                                          m_isAiming = false;
                                       } );
   m_pInputComponent->BindAction ( "player", "aim", eAID_KeyboardMouse, EKeyId::eKI_Mouse2 );
 
@@ -379,46 +379,106 @@ void CPlayerComponent::UpdateCamera ( float frameTime )
   // Also offset upwards
   float viewOffsetForward = -1.5f;
   float viewOffsetLeft = 0;
-  if (m_aiming)
+  if (m_isAiming)
   {
     viewOffsetForward = -0.5f;
     viewOffsetLeft = -0.3f;
 
+    if (!m_aimEntity)
+    {
+      m_aimEntity = gEnv->pEntitySystem->FindEntityByName ( "aimingPointer" );
+      m_aimEntity->SetScale ( Vec3 ( .2f, .2f, .2f ) );
+    }
 
-    //if (ICharacterInstance* pCharacter = m_pAnimationComponent->GetCharacter ())
-    //{
-    //  IAttachment* pBarrelOutAttachment = pCharacter->GetIAttachmentManager ()->GetInterfaceByName ( "barrel_out" );
+    if (m_aimEntity)
+    {
+      m_aimEntity->Invisible ( false );
 
-    //  if (pBarrelOutAttachment != nullptr)
-    //  {
-    //    QuatTS bulletOrigin = pBarrelOutAttachment->GetAttWorldAbsolute ();
+      // FYI:
+      // position: x: front/backward, y: left/right
+      //! x-YAW
+      //! y-PITCH (negative=looking down / positive=looking up)
+      //! z-ROLL
 
-    //    SEntitySpawnParams spawnParams;
-    //    spawnParams.pClass = gEnv->pEntitySystem->GetClassRegistry ()->GetDefaultClass ();
+      // must keep distance constant with calculating the position
+      // position x, y, z
+      // that is the rotation of camera or character in radians or degrees
+      // must be used to calculate the position with help of radius (representing the distance) of circle
+      // on the other hand the Z-axis is to be taken from pitch
 
-    //    spawnParams.vPosition = bulletOrigin.t;
+      // rotation x, y, z
+      // must keep the face of polygon to the head of player (to the camera view)
+      // must important one is yaw (to turn around Z-axis)
 
-    //    spawnParams.vPosition = bulletOrigin.t + Vec3 ( -0.1f );
 
-    //    //spawnParams.vPosition.x = m_mouseDeltaRotation.x;
-    //    //spawnParams.vPosition.y = m_mouseDeltaRotation.y;
-    //    //spawnParams.vPosition.z += 30;
+      // the direction the player is looking at
+      //Quat entityRotation = GetEntity ()->GetRotation (); // player turns (Z-axis)
+      //Ang3 yprEntity = CCamera::CreateAnglesYPR ( Matrix33 ( entityRotation ) );
 
-    //    spawnParams.qRotation = bulletOrigin.q;
+      // the direction the player is looking at (+ additional information)
+      Ang3 yprLookRotation = CCamera::CreateAnglesYPR ( Matrix33 ( m_lookOrientation ) );
 
-    //    const float bulletScale = 0.2f;
+      // aiming position (initial to player position)
+      Vec3 aimPosition { 0 };
+      aimPosition = GetEntity ()->GetPos ();
 
-    //    spawnParams.vScale = Vec3 ( bulletScale );
+      //aimPos = Vec3 ( 70.f, 52.f, 34.f ); // absolute position (test purposes)
 
-    //    // Spawn the entity
-    //    if (IEntity* pEntity = gEnv->pEntitySystem->SpawnEntity ( spawnParams ))
-    //    {
-    //      // See Bullet.cpp, bullet is propelled in  the rotation and position the entity was spawned with
-    //      pEntity->CreateComponentClass<CPointerComponent> ();
-    //    }
-    //  }
-    //}
+      // algorithm brief introduction
+      // an imaginary circle must be build
+      // for each arc of the circle, in which the player is currently face at,
+      // the position calculation within the imaginary circle is necessary
+
+      // radians to degrees plus correction
+      float radiansToDegrees { .0f };
+      radiansToDegrees = RAD2DEG ( yprLookRotation.x );// x * 180 / gf_PI
+      if (radiansToDegrees < 0)
+      {
+        radiansToDegrees = -(-radiansToDegrees - 180.f) + 180.f;
+      }
+
+      // 0/360 to 0/6 conversion (additionally solving the bug when changing from -1 to 0 and 1 degrees and other way around)
+      short withoutPrecision { short ( radiansToDegrees ) };
+      //float precision { radiansToDegrees - withoutPrecision };
+      withoutPrecision %= 6;
+
+      // arbitrary degrees (0 to 6 degrees must represents all 0 to 360)
+      // Todo here is where to give it some precision (the numbers are relative)
+      if (radiansToDegrees - m_aimingDegreesReality >= .3f)
+      {
+        if (withoutPrecision / 6 == 0)
+        {
+          m_aimingDegrees += .02f;
+        }
+        m_aimingDegreesReality = radiansToDegrees;
+      }
+      if (m_aimingDegreesReality - radiansToDegrees >= .3f)
+      {
+        if (withoutPrecision / 6 == 0)
+        {
+          m_aimingDegrees -= .02f;
+        }
+        m_aimingDegreesReality = radiansToDegrees;
+      }
+
+      // Todo when aiming start (the position must be calculated at correct point)
+
+      aimPosition += Vec3 ( 3.f * crymath::cos ( m_aimingDegrees ), 3.f * crymath::sin ( m_aimingDegrees ), yprLookRotation.y * 10.f );
+      m_aimEntity->SetPos ( aimPosition );
+
+      // face the aiming entity to the player (no matter which rotation)
+      yprLookRotation.y += -1.1f;
+      yprLookRotation.z = 0; // not needed Z-axis
+      m_aimEntity->SetRotation ( Quat ( CCamera::CreateOrientationYPR ( yprLookRotation ) ) );
+    }
+  } else
+  {
+    if (m_aimEntity)
+    {
+      m_aimEntity->Invisible ( true );
+    }
   }
+
   const float viewOffsetUp = 2.f;
   localTransform.SetTranslation ( Vec3 ( viewOffsetLeft, viewOffsetForward, viewOffsetUp ) );
 

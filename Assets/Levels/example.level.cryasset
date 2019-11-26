@@ -1,4 +1,4 @@
-<AssetMetadata version="0" type="Level" guid="90f6f9d4-0804-283c-02dc-2d438ba572bd" source="" timestamp="1574279671">
+<AssetMetadata version="0" type="Level" guid="90f6f9d4-0804-283c-02dc-2d438ba572bd" source="" timestamp="1574768952">
  <Files>
   <File path="example/example.level"/>
  </Files>
@@ -86,9 +86,11 @@
   <Path>editor/resourcecache/objects/characters/samplecharacter/mcg_spec.dds</Path>
   <Path>engineassets/materials/water/ocean_default.mtl</Path>
   <Path usageCount="1">libs/environmentpresets/example.env</Path>
+  <Path>materials/aim.mtl</Path>
   <Path>materials/object.mtl</Path>
   <Path>materials/step.mtl</Path>
   <Path>materials/wall.mtl</Path>
+  <Path>objects/aimingpointer2.cgf</Path>
   <Path>objects/characters/samplecharacter/mcg_ddna.dds</Path>
   <Path>objects/characters/samplecharacter/mcg_diff.dds</Path>
   <Path>objects/characters/samplecharacter/mcg_spec.dds</Path>

@@ -5832,7 +5832,7 @@
 			"type": "Level",
 			"guid": "90f6f9d4-0804-283c-02dc-2d438ba572bd",
 			"name": "example",
-			"timestamp": 1574279671,
+			"timestamp": 1574768952,
 			"files": [ "Levels/example/example.level" ],
 			"workFiles": [ ],
 			"source": "",
@@ -6138,9 +6138,11 @@
 					"usageCount": 0
 				},
 				{ "path": "libs/environmentpresets/example.env", "usageCount": 1 },
+				{ "path": "materials/aim.mtl", "usageCount": 0 },
 				{ "path": "materials/object.mtl", "usageCount": 0 },
 				{ "path": "materials/step.mtl", "usageCount": 0 },
 				{ "path": "materials/wall.mtl", "usageCount": 0 },
+				{ "path": "objects/aimingpointer2.cgf", "usageCount": 0 },
 				{
 					"path": "objects/characters/samplecharacter/mcg_ddna.dds",
 					"usageCount": 0
@@ -6186,6 +6188,22 @@
 					"usageCount": 0
 				}
 			]
+		},
+		{
+			"type": "Texture",
+			"guid": "57c72e9c-9980-b26f-d28e-e477b13128c9",
+			"name": "example",
+			"timestamp": 1574367750,
+			"files": [ "Levels/example/example.dds" ],
+			"workFiles": [ ],
+			"source": "Levels/example/example.tif",
+			"metadata": "Levels/example/example.dds.cryasset",
+			"details": [
+				{ "key": "height", "value": "1024" },
+				{ "key": "mipCount", "value": "9" },
+				{ "key": "width", "value": "1024" }
+			],
+			"dependencies": [ ]
 		},
 		{
 			"type": "Xml",
@@ -6321,6 +6339,21 @@
 		},
 		{
 			"type": "Material",
+			"guid": "01bec4c7-f685-1421-9bfb-7fe5bcf9c1f6",
+			"name": "aim",
+			"timestamp": 1574450437,
+			"files": [ "Materials/aim.mtl" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Materials/aim.mtl.cryasset",
+			"details": [
+				{ "key": "subMaterialCount", "value": "0" },
+				{ "key": "textureCount", "value": "0" }
+			],
+			"dependencies": [ ]
+		},
+		{
+			"type": "Material",
 			"guid": "76452ec6-d264-9a3a-7281-6b9f58516e00",
 			"name": "bullet",
 			"timestamp": 1573731421,
@@ -6392,6 +6425,45 @@
 			"dependencies": [
 				{
 					"path": "%engine%/engineassets/texturemsg/DefaultNoUVs.dds",
+					"usageCount": 1
+				}
+			]
+		},
+		{
+			"type": "Mesh",
+			"guid": "9f9f91ad-f217-4647-14d9-8a44338d385a",
+			"name": "aimingPointer",
+			"timestamp": 1574447009,
+			"files": [ "Objects/aimingPointer.cgf" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Objects/aimingPointer.cgf.cryasset",
+			"details": [
+				{ "key": "16BitPrecision", "value": "false" },
+				{ "key": "materialCount", "value": "1" },
+				{ "key": "triangleCount", "value": "8" },
+				{ "key": "vertexCount", "value": "16" }
+			],
+			"dependencies": [ { "path": "Materials/aim.mtl", "usageCount": 1 } ]
+		},
+		{
+			"type": "Mesh",
+			"guid": "dc49d310-5eaa-3909-5c6b-77e8bf87a15d",
+			"name": "aimingPointer2",
+			"timestamp": 1574538887,
+			"files": [ "Objects/aimingPointer2.cgf" ],
+			"workFiles": [ ],
+			"source": "",
+			"metadata": "Objects/aimingPointer2.cgf.cryasset",
+			"details": [
+				{ "key": "16BitPrecision", "value": "false" },
+				{ "key": "materialCount", "value": "1" },
+				{ "key": "triangleCount", "value": "8" },
+				{ "key": "vertexCount", "value": "16" }
+			],
+			"dependencies": [
+				{
+					"path": "%ENGINE%/EngineAssets/TextureMsg/DefaultSolids.mtl",
 					"usageCount": 1
 				}
 			]

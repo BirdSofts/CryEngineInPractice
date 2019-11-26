@@ -1,0 +1,4 @@
+<Material MtlFlags="524290" Shader="Illum" GenMask="4000000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.40197787,0,0" Opacity="1" Shininess="9.9450016" CloakAmount="0" vertModifType="0" LayerAct="0">
+ <Textures />
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

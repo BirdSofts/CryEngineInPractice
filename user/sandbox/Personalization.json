@@ -156,7 +156,7 @@
             "foldersSplitter": "AAAA/wAAAAEAAAACAAABAAAAAwAB/////wEAAAABAA==",
             "foldersView": {
                 "selected": [
-                    "%engine%/engineassets/materials"
+                    "Materials"
                 ]
             },
             "mainViewSplitter": "AAAA/wAAAAEAAAACAAAAOgAAAQAB/////wEAAAABAA==",
@@ -330,10 +330,163 @@
             "foldersSplitter": "AAAA/wAAAAEAAAACAAABAAAAAwAB/////wEAAAABAA==",
             "foldersView": {
                 "selected": [
-                    "Objects/Weapons/SampleWeapon"
+                    "Objects"
                 ]
             },
-            "mainViewSplitter": "AAAA/wAAAAEAAAAC/////wAAAQAB/////wEAAAABAA==",
+            "mainViewSplitter": "AAAA/wAAAAEAAAACAAAAOgAAAQAB/////wEAAAABAA==",
+            "recursiveView": false,
+            "showFolders": true,
+            "thumbnailView": {
+                "size": {
+                    "height": 64,
+                    "width": 64
+                }
+            },
+            "viewMode": 1
+        },
+        "LayoutPrefab": {
+            "adaptiveLayout": true,
+            "breadcrumbsVisible": true,
+            "detailsView": {
+                "columnData": {
+                    "Favorite": {
+                        "data": "Favorite",
+                        "visible": true,
+                        "visualIndex": 0,
+                        "width": 16
+                    },
+                    "Folder": {
+                        "data": "Folder",
+                        "visible": false,
+                        "visualIndex": 4,
+                        "width": 0
+                    },
+                    "Name": {
+                        "data": "Name",
+                        "visible": true,
+                        "visualIndex": 1,
+                        "width": 260
+                    },
+                    "Status": {
+                        "data": "Status",
+                        "visible": true,
+                        "visualIndex": 3,
+                        "width": 125
+                    },
+                    "Type": {
+                        "data": "Type",
+                        "visible": true,
+                        "visualIndex": 2,
+                        "width": 150
+                    },
+                    "Unique Id": {
+                        "data": "Unique Id",
+                        "visible": false,
+                        "visualIndex": 5,
+                        "width": 0
+                    },
+                    "_filter_string_": {
+                        "data": "_filter_string_",
+                        "visible": false,
+                        "visualIndex": 7,
+                        "width": 0
+                    },
+                    "_thumb_": {
+                        "data": "_thumb_",
+                        "visible": false,
+                        "visualIndex": 6,
+                        "width": 0
+                    }
+                },
+                "columnOrder": [
+                    "Favorite",
+                    "Name",
+                    "Type",
+                    "Status",
+                    "Folder",
+                    "Unique Id",
+                    "_thumb_",
+                    "_filter_string_"
+                ],
+                "headerSortingOrder": {
+                    "sortOrder": 0,
+                    "sortedSection": 1
+                },
+                "version": 1
+            },
+            "editorContent": {
+                "isLocked": true,
+                "toolBarArea": [
+                    {
+                        "items": [
+                            {
+                                "index": 0,
+                                "name": "FileToolBar",
+                                "type": 0,
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "items": [
+                        ]
+                    },
+                    {
+                        "items": [
+                        ]
+                    },
+                    {
+                        "items": [
+                            {
+                                "index": 0,
+                                "spacerType": 0,
+                                "type": 1
+                            },
+                            {
+                                "index": 1,
+                                "name": "ViewToolBar",
+                                "type": 0,
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "spacerType": 1,
+                                "type": 1
+                            },
+                            {
+                                "index": 3,
+                                "name": "View TypeToolBar",
+                                "type": 0,
+                                "visible": false
+                            }
+                        ]
+                    }
+                ],
+                "toolBars": [
+                    {
+                        "area": 0,
+                        "name": "FileToolBar"
+                    },
+                    {
+                        "area": 3,
+                        "name": "View TypeToolBar"
+                    },
+                    {
+                        "area": 3,
+                        "name": "ViewToolBar"
+                    }
+                ]
+            },
+            "filters": {
+                "expanded": false
+            },
+            "foldersSplitter": "AAAA/wAAAAEAAAACAAABAAAAAwAB/////wEAAAABAA==",
+            "foldersView": {
+                "selected": [
+                    ""
+                ]
+            },
+            "mainViewSplitter": "AAAA/wAAAAEAAAACAAAAOgAAAQAB/////wEAAAABAA==",
             "recursiveView": false,
             "showFolders": true,
             "thumbnailView": {
@@ -511,7 +664,7 @@
             "foldersSplitter": "AAAA/wAAAAEAAAACAAABAAAAAwAB/////wEAAAABAA==",
             "foldersView": {
                 "selected": [
-                    "%engine%/engineassets/texturemsg"
+                    "Materials"
                 ]
             },
             "mainViewSplitter": "AAAA/wAAAAEAAAACAAAAOgAAAQAB/////wEAAAABAA==",
@@ -549,15 +702,16 @@
     },
     "Material Editor": {
         "Recent Files": [
+            "%engine%/engineassets/texturemsg/defaultsolids.mtl.cryasset",
+            "Materials/aim.mtl.cryasset",
+            "materials/aim.mtl.cryasset",
+            "Materials/bullet.mtl.cryasset",
+            "%engine%/engineassets/materials/material_default.mtl.cryasset",
             "Materials/wall.mtl.cryasset",
             "%engine%/engineassets/materials/material_layers_default.mtl.cryasset",
             "Materials/object.mtl.cryasset",
             "Materials/step.mtl.cryasset",
-            "%engine%/engineassets/materials/material_default.mtl.cryasset",
-            "materials/step.mtl.cryasset",
-            "materials/wall.mtl.cryasset",
-            "materials/object.mtl.cryasset",
-            "Materials/bullet.mtl.cryasset"
+            "materials/step.mtl.cryasset"
         ]
     }
 }

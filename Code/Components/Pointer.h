@@ -3,7 +3,7 @@
 /// 
 /// </summary>
 /// <created>ʆϒʅ,21.11.2019</created>
-/// <changed>ʆϒʅ,21.11.2019</changed>
+/// <changed>ʆϒʅ,22.11.2019</changed>
 // ********************************************************************************
 
 #ifndef POINTER_H
@@ -23,11 +23,11 @@ public:
 	{
 		// Set the model
 		const int geometrySlot = 0;
-		m_pEntity->LoadGeometry(geometrySlot, "%ENGINE%/EngineAssets/Objects/primitive_sphere.cgf");
+		m_pEntity->LoadGeometry(geometrySlot, "Objects/aimingPointer.cgf");
 
 		// Load the custom bullet material.
 		// This material has the 'mat_bullet' surface type applied, which is set up to play sounds on collision with 'mat_default' objects in Libs/MaterialEffects
-		auto *pBulletMaterial = gEnv->p3DEngine->GetMaterialManager()->LoadMaterial("Materials/bullet");
+		auto *pBulletMaterial = gEnv->p3DEngine->GetMaterialManager()->LoadMaterial("Materials/aim");
 		m_pEntity->SetMaterial(pBulletMaterial);
 
 		// Now create the physical representation of the entity
