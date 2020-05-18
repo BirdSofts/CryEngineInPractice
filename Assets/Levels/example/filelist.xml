@@ -3,6 +3,6 @@
  <files>
   <file src="example.dds" dest="example.dds" size="699184" md5="2620775cca5961f22a9a6e22bc40e009"/>
   <file src="example.xml" dest="example.xml" size="134" md5="2863cf884f852d23e5007d7137daa2a0"/>
-  <file src="level.pak" dest="level.pak" size="43161" md5="f92f2d2605637b7adbdbb08a2998594a"/>
+  <file src="level.pak" dest="level.pak" size="43200" md5="8dac3da7306b139ebf6da2d744ca1a3c"/>
  </files>
 </download>

@@ -1,6 +1,8 @@
 # Introduction 
 Some Game ideas using Cry Engine.
 
+<img href="https://github.com/BirdSofts" src="https://github.com/BirdSofts/CryEngineInPractice/blob/master/screenshots/ScreenShot_01.jpg" width="1280" height="720" alt="ScreenShot">
+
 <table>
 <tr>
 <td><b>Creator's Website:</b></td>

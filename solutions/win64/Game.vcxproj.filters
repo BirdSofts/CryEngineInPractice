@@ -28,9 +28,6 @@
     <ClInclude Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\Components\SpawnPoint.h">
       <Filter>Components</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Code\Components\Pointer.h">
-      <Filter>Components</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\Mehrdad\source\repos\CryEngineInPractice\Code\CMakeLists.txt" />

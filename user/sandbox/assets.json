@@ -3,9 +3,9 @@
 	"assets": [
 		{
 			"type": "Texture",
-			"guid": "9909aaa6-3f98-453b-0ab0-1bd24f8dc27d",
+			"guid": "1bdbf17e-9691-8afa-ca71-816e573fde2d",
 			"name": "watervolume",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/animated/WaterVolume.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -19,9 +19,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "69990a0e-4aac-f497-fabb-82942cdc0703",
+			"guid": "59435d1a-7192-cf28-6dd4-9b4667ee672d",
 			"name": "hit",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/codecoverage/hit.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -35,9 +35,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7f13b9a6-a39b-5516-1b8a-335db3b482ce",
+			"guid": "4d062251-790c-a95f-868b-35c3bb713328",
 			"name": "pbar",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/codecoverage/pbar.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -51,9 +51,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a32fae43-70ae-1886-2f2d-2c22b77b904c",
+			"guid": "ba209231-d759-ecb0-49ca-028beed7edb0",
 			"name": "unexpected",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/codecoverage/unexpected.dds",
 				"%engine%/engineassets/codecoverage/unexpected.dds.1",
@@ -71,9 +71,9 @@
 		},
 		{
 			"type": "GeometryCache",
-			"guid": "1db71de6-7295-f75a-1509-83b12622ba57",
+			"guid": "c98b1672-8b1f-1037-980f-f547d0b5ca32",
 			"name": "default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/geomcaches/default.cax" ],
 			"workFiles": [ ],
 			"source": "",
@@ -83,9 +83,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d36b42d2-be65-8105-b8dc-999f3708030d",
+			"guid": "7d3bf53f-84bb-6e70-1916-c051f5bb7814",
 			"name": "averagememoryusage",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/AverageMemoryUsage.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -99,9 +99,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9f17e197-163f-69a3-8dc9-6906fcb96476",
+			"guid": "0b1f6ab6-1f54-9ee8-20e1-1f45b424800a",
 			"name": "highmemoryusage",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/HighMemoryUsage.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -115,9 +115,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "73853bb4-0550-d28d-43de-bfb7fb032319",
+			"guid": "e9b4427c-9ae9-c6e0-5b92-b0ac6786f860",
 			"name": "levelshadercachemiss",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/LevelShaderCacheMiss.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -131,9 +131,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a16246ca-d173-ff5f-92b2-a7795ff7c33e",
+			"guid": "92662a7e-a5c3-b5ed-517b-734acd02f2f2",
 			"name": "livepreview",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/LivePreview.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -147,9 +147,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ae2327bb-c63e-59bc-c93e-a7a4506b902f",
+			"guid": "ae5cbe96-903f-e78c-4782-25c23969319d",
 			"name": "lowmemoryusage",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/LowMemoryUsage.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -163,9 +163,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f6653375-7338-f1a6-a922-fe3ba3b8a3b0",
+			"guid": "a5f18879-5131-dbb3-a902-613481950e25",
 			"name": "navigationprocessing",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/NavigationProcessing.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -179,9 +179,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2f5e7200-12c3-b8d0-abbb-d9ff85ac1687",
+			"guid": "8b54ea94-49eb-271b-9948-c2261c151ede",
 			"name": "shadercompiling",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/ShaderCompiling.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -195,9 +195,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6c2422df-27a4-f388-ae9e-59142b7821f2",
+			"guid": "5a678643-0581-fb94-d8ed-f187d3b1940a",
 			"name": "streaming",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/Streaming.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -211,9 +211,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "455ae679-8905-d872-4af9-d52581f48f6f",
+			"guid": "bb8fa795-cb4d-6342-157c-59a1d7bff46b",
 			"name": "streamingterrain",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/icons/StreamingTerrain.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -227,9 +227,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "f94d72c7-2da5-96e7-7b1a-0b60475a84fb",
+			"guid": "8029c340-486c-494d-9efe-f18bacded5d6",
 			"name": "billboard_default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/billboard_default.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -242,9 +242,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "445d4645-0e94-5ca0-f1f7-45453016dbf7",
+			"guid": "4bf33101-9f41-b946-9bd6-51eb6c744c3b",
 			"name": "fogvolumebox",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/FogVolumeBox.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -257,9 +257,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "734a5e24-1cde-3314-a4ed-d8bb576ce5ee",
+			"guid": "c2aa31b0-c5f7-4b56-176c-afcc3c0ed523",
 			"name": "fogvolumeellipsoid",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/FogVolumeEllipsoid.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -272,9 +272,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "e19c4961-d379-a173-0c51-13c7751e646a",
+			"guid": "0fea2c97-e14f-4cf1-37be-8d4b173ddd31",
 			"name": "oceaninto",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanInto.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -287,9 +287,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "10d7b1d1-abaf-d87a-e21b-e1fcf4ac5bb2",
+			"guid": "55673c5b-204e-ef53-ac2c-cb950153ca75",
 			"name": "oceanintolowspec",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanIntoLowSpec.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -302,9 +302,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "c7036af3-10a8-1049-a8f9-976544e74638",
+			"guid": "aa9bdb35-1fbd-e65a-2128-ab2006df60b8",
 			"name": "oceanoutof",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanOutof.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -317,9 +317,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "e9c767dd-981f-60ad-aa1a-1ee9521e477f",
+			"guid": "abe468c7-f131-6085-1d4d-25675a17d537",
 			"name": "oceanoutoflowspec",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/OceanOutofLowSpec.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -332,9 +332,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "319c7335-8654-8861-7284-8df681ebbea4",
+			"guid": "9acfa231-e1b3-48a7-2f1d-fe8ee55dc128",
 			"name": "waterfogvolumeinto",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/WaterFogVolumeInto.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -347,9 +347,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "9fa44129-2f3f-c4f9-7cba-7ac7d76ca281",
+			"guid": "ea062f80-6dfc-3e89-2308-fb7f92c496e4",
 			"name": "waterfogvolumeoutof",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/fog/WaterFogVolumeOutof.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -362,9 +362,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "f0f378e7-19e5-d53d-cc94-dc57eb012047",
+			"guid": "74d7cc42-5131-6bfd-67e7-56e1d63c9440",
 			"name": "lens_optics",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/lens_optics.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -379,9 +379,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "2cb4ca95-5bab-86d5-f036-cd7ed3c11a74",
+			"guid": "8d322875-5f68-2ed6-9e34-29416f185ec2",
 			"name": "material_default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/material_default.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -396,9 +396,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "d50137b4-a80b-4a7c-a432-b16fb543960b",
+			"guid": "d1e898eb-c121-363e-0f1c-add424ac024b",
 			"name": "material_layers_default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/material_layers_default.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -416,9 +416,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "261c3669-ff30-9a8b-a787-7be0bacd8c81",
+			"guid": "d0919caa-2939-fa09-4406-1b9993527509",
 			"name": "material_terrain_default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/material_terrain_default.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -436,9 +436,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "d45d74f1-ef76-068b-5f3f-be23d4d4290e",
+			"guid": "526aadb6-de26-42b1-583c-530ea4bbb677",
 			"name": "mi_previewvertexalpha",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/materials/meshimporter/MI_PreviewVertexAlpha.mtl"
 			],
@@ -462,9 +462,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "d6a562bf-3db2-0619-f63e-2d784dcb6e23",
+			"guid": "c3804542-355f-28b5-86f4-c6e1e95577f2",
 			"name": "mi_previewvertexcolor",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/materials/meshimporter/MI_PreviewVertexColor.mtl"
 			],
@@ -484,9 +484,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "35e2e48f-018e-2909-85d3-01dc48dcb400",
+			"guid": "9d0c44ce-402b-2719-a967-8927d751e6d5",
 			"name": "physproxytoobig",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/PhysProxyTooBig.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -504,9 +504,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "3d89d6ca-958e-ae01-487b-c492efa23618",
+			"guid": "50839460-50f4-160a-e4d9-242593bac81a",
 			"name": "sky",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/sky/sky.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -519,9 +519,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "15900f7f-caed-b7e6-0445-f68925059739",
+			"guid": "581fd963-c2e0-690d-2a59-7c4f29827f9c",
 			"name": "ocean_default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/water/ocean_default.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -534,9 +534,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "33ac7c43-3703-c331-f6c4-b7be8d0f1a03",
+			"guid": "26481841-a533-bcc2-7e07-a4785a7f741d",
 			"name": "wateroceanbottom",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/materials/water/WaterOceanBottom.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -549,9 +549,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "bbe01717-17b3-1516-bdee-4e05c5841c4e",
+			"guid": "26a28087-20e7-9130-fd9a-5600367fa63d",
 			"name": "default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/Default.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -568,9 +568,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "8bc41373-d0c4-539a-4c02-f6e9883f9fe2",
+			"guid": "2a4a92ab-1caf-497b-1647-ea768671c629",
 			"name": "editorprimitive",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/editorprimitive.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -585,9 +585,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "e2589e57-ca18-eea2-f32c-d3c5cc86b07e",
+			"guid": "39d7828a-f24f-8a12-9e54-0534d6048f8d",
 			"name": "helper",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/helper.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -605,9 +605,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "d910e8b7-288c-66cf-c458-6eef4424565d",
+			"guid": "6a8d3040-6863-7821-f580-c44633a486ba",
 			"name": "primitive_box",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_box.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -627,9 +627,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "4628290e-ab1c-514c-de07-81f2af2da0fb",
+			"guid": "2ee72897-41d3-8515-0d54-b1e0b594b6ad",
 			"name": "primitive_cube",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_cube.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -649,9 +649,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "e1a3d258-21ce-0a40-4901-bbedadc01a83",
+			"guid": "d5f1df8c-be7b-a516-e938-941ce5a10573",
 			"name": "primitive_cylinder",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_cylinder.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -671,9 +671,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "5e0ab651-8882-3580-dbe9-fa75bfd23d63",
+			"guid": "d427a45b-7fc0-454f-d84a-bcc7ab73946d",
 			"name": "primitive_plane",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_plane.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -693,9 +693,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "59ac143b-87fd-0ac0-e304-f62673ba7a87",
+			"guid": "b92c6888-0636-0e63-3057-9406cb78ecf2",
 			"name": "primitive_pyramid",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_pyramid.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -715,9 +715,9 @@
 		},
 		{
 			"type": "Mesh",
-			"guid": "8f9ee699-4ef6-539f-cdbf-c07949fe7ddf",
+			"guid": "97c4e36b-bd2d-797a-e507-05b2c34a646b",
 			"name": "primitive_sphere",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/objects/primitive_sphere.cgf" ],
 			"workFiles": [ ],
 			"source": "",
@@ -737,9 +737,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0ad1af00-0f8e-7121-a93c-966349ea94f9",
+			"guid": "1e7f5b50-2ff8-81d5-b506-611e86422e63",
 			"name": "midgray",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/production/MidGray.dds",
 				"%engine%/engineassets/production/MidGray.dds.1",
@@ -757,9 +757,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e1a644be-d462-8259-afaa-26f0677d9840",
+			"guid": "af0d4050-b74c-614a-5783-724640e36009",
 			"name": "tangentreference_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/production/TangentReference_ddn.dds",
 				"%engine%/engineassets/production/TangentReference_ddn.dds.1",
@@ -779,9 +779,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "33433ee0-53f8-1fcd-a83b-86edc4a93eba",
+			"guid": "63ea0fec-ccaa-d143-6211-07994c2e4e68",
 			"name": "uv",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/production/UV.dds",
 				"%engine%/engineassets/production/UV.dds.1",
@@ -801,9 +801,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a677e1d3-4c2b-f1fd-f272-361e42a088ff",
+			"guid": "78e7198c-0e91-ba99-f46a-3a9e7adf7d99",
 			"name": "areatex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/AreaTex.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -817,9 +817,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8e2db935-92c7-daba-f75a-c62e6f9a1d52",
+			"guid": "f1eebdfa-8eab-55ef-8afb-210941678d69",
 			"name": "bokeh_love",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_love.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -833,9 +833,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "41b33ed8-fc9d-5727-ee8b-a4e1a780109e",
+			"guid": "f3a24922-f546-a80c-7a70-0f612b047672",
 			"name": "bokeh_music",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_music.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -849,9 +849,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e0d96c55-f3db-f685-9b4f-ed442e126f66",
+			"guid": "8d3d190a-d655-69fc-16e2-c1eee758e358",
 			"name": "bokeh_pentagon",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_pentagon.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -865,9 +865,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "29272aae-dafb-02c3-0b94-2f76cc6e29e6",
+			"guid": "70ce3be0-e769-6d7f-209f-257462159f45",
 			"name": "bokeh_spherical",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_spherical.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -881,9 +881,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b0128321-29f6-7798-fcac-a60a8a3f7bf6",
+			"guid": "a7f4ef33-5a04-921a-eab2-d798bc35cdf1",
 			"name": "bokeh_square",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_square.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -897,9 +897,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a795d807-6ec9-f82d-be0a-8eeaa376e20c",
+			"guid": "825c392d-0854-4922-124f-e170411add87",
 			"name": "bokeh_star",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/bokeh_star.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -913,9 +913,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fccddb36-ecdb-a691-24ba-95c0f5ce450a",
+			"guid": "2dd92b31-c46e-4a27-3977-19a268c04519",
 			"name": "film_grain",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/film_grain.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -929,9 +929,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "329ed31d-120e-b1a7-9038-fb608c524108",
+			"guid": "f226f8fd-b2bb-9afc-d137-263c9a7517cd",
 			"name": "grain_bayer_mul",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/grain_bayer_mul.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -945,9 +945,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ddd39fd5-5bdf-b8db-0af5-a931b565ffa7",
+			"guid": "ebbd2f54-ed83-4ded-ab3e-035d06178229",
 			"name": "normalsfitting",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/NormalsFitting.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -961,9 +961,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8df79c02-5b78-6756-f0a9-ff9323c1e167",
+			"guid": "3c496a6b-a176-0684-f0cb-150ac1fae380",
 			"name": "pointsonsphere4x4",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/PointsOnSphere4x4.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -977,9 +977,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e8f790ae-e0a7-0923-4c30-d2a82de60529",
+			"guid": "e7d953a9-bd16-8246-7639-c4c4c123119f",
 			"name": "pointsonspherevo4x4",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/PointsOnSphereVO4x4.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -993,9 +993,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "eb3a5031-0ceb-bb61-f8f0-8f01289e4dbd",
+			"guid": "ab0c99d6-5ea3-427f-b098-0a5bcded2302",
 			"name": "searchtex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/screenspace/SearchTex.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1009,9 +1009,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fb11b292-7cd6-3c1a-6111-80c119092526",
+			"guid": "6b5fc571-688c-814b-e483-d49d2247528f",
 			"name": "cloud_mie_phase_function",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/cloud_mie_phase_function.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1025,9 +1025,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "75419e96-f9be-4e6b-bac4-2b29cbfc8735",
+			"guid": "13def50d-e0aa-5098-fbee-7c907e05d71b",
 			"name": "cook_d_sampler_g16r16f",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/cook_d_sampler_G16R16F.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1041,9 +1041,9 @@
 		},
 		{
 			"type": "Environment",
-			"guid": "ef22fad5-d02e-bda8-ae03-72109b8a2b19",
+			"guid": "65000126-ee55-9529-a7a8-0748f0ab7e88",
 			"name": "default",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/default.env" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1053,9 +1053,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b161ef52-56db-57f5-534f-08d01c77ff22",
+			"guid": "c8c8a269-c97e-3e02-15ad-5bf01debf64a",
 			"name": "defaultprobe_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/shading/defaultProbe_cm.dds",
 				"%engine%/engineassets/shading/defaultProbe_cm.dds.1",
@@ -1075,9 +1075,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a0814b5e-a277-a88a-76ae-6120638f82df",
+			"guid": "89ccc7c2-9bb8-4ec2-0b0e-07daca16053f",
 			"name": "defaultprobe_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/defaultProbe_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1091,9 +1091,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6653d789-7701-381d-494d-c8d79cdf1bbe",
+			"guid": "8ccc8602-5f66-4148-0eae-a2572c5f7ad4",
 			"name": "environmentbrdf",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/environmentBRDF.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1107,9 +1107,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "52fa38a6-eb53-d6cb-c2d6-34206c86a053",
+			"guid": "54836ad7-b412-0936-de7d-52df0ebeb716",
 			"name": "generic_reflections",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/shading/generic_reflections.dds",
 				"%engine%/engineassets/shading/generic_reflections.dds.1",
@@ -1129,9 +1129,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "42e67bc3-2f75-48bc-9de8-a98cc2eb462a",
+			"guid": "62d2afd4-890c-6476-5a84-904d565ef473",
 			"name": "generic_reflections_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/generic_reflections_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1145,9 +1145,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "90ef07cf-6c46-7189-5859-1ad75a4f51cc",
+			"guid": "abd1cdf2-2b26-f2a3-184e-bdcaf13612f4",
 			"name": "layer_effect_anim_function",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/layer_effect_anim_function.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1161,9 +1161,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "337f9e76-51a6-f8a0-2663-733865588f3b",
+			"guid": "722a5daa-e811-b21b-09ab-4a724d1d9afc",
 			"name": "ltc_1",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/ltc_1.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1177,9 +1177,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5e7017e8-f9a2-f60f-7b1f-73843474b6e2",
+			"guid": "08d3b375-9ad4-285e-eedf-7afab3020d98",
 			"name": "ltc_2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/ltc_2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1193,9 +1193,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "70816cf9-651c-f900-44a7-04db9a77b7ca",
+			"guid": "e4185794-cd2f-49fb-24b4-3abb3a2bd258",
 			"name": "nanosuit_mask",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/shading/nanosuit_mask.dds",
 				"%engine%/engineassets/shading/nanosuit_mask.dds.1",
@@ -1213,9 +1213,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a72aa281-71b9-b415-26dd-f560350c25d0",
+			"guid": "0aa1b449-f436-9a00-9469-8c23136f547e",
 			"name": "nanosuit_modes_grads",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/nanosuit_modes_grads.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1229,9 +1229,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b0f69955-a035-73bb-e8b7-54e584a6fee6",
+			"guid": "ab65ee4d-4e60-553a-a6ce-3b715f89aa8f",
 			"name": "sonarvisiongradient",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/SonarVisionGradient.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1245,9 +1245,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "839582f2-b275-35d7-364d-47712e950f77",
+			"guid": "1deedae7-fac4-6782-4518-9317badf3090",
 			"name": "thermalvisiongradient",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/ThermalVisionGradient.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1261,9 +1261,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "17d70ade-d5f3-a96a-3dca-c77bfac633dc",
+			"guid": "351be497-86b7-1728-902b-68d9019eb4a2",
 			"name": "thermalvisiongradient02",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/ThermalVisionGradient02.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1277,9 +1277,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8cb38c0f-9a9a-6c08-767b-a19d3e7d66d2",
+			"guid": "b22072e2-bffc-d8fe-98d3-4d3b5af90d98",
 			"name": "vignetting",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/shading/vignetting.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1293,9 +1293,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e4a210df-cb4f-05a7-0a44-d97a10e454dc",
+			"guid": "64935a30-b921-65b6-8a4e-8a7bc1f31dee",
 			"name": "waterfoam",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/shading/WaterFoam.dds",
 				"%engine%/engineassets/shading/WaterFoam.dds.1",
@@ -1315,9 +1315,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6049852a-9165-f426-d079-f81e1fd73836",
+			"guid": "07ffbcb8-0840-c305-0fa0-423c676d6696",
 			"name": "color_black",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Black.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1331,9 +1331,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "adfeabea-c3c4-bead-f6ae-17cadc2a4f76",
+			"guid": "5740761a-e2fa-e523-1b80-7fe16382ac04",
 			"name": "color_blue",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Blue.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1347,9 +1347,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "12441591-fa27-761a-8f53-6f190749c703",
+			"guid": "3942cc9b-c0ae-bd4f-4f9b-ca958083744d",
 			"name": "color_cyan",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Cyan.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1363,9 +1363,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "15a1f6be-9e68-139e-0042-48eded2b0810",
+			"guid": "e487d0ce-22f8-d447-a130-e6bff0d50349",
 			"name": "color_green",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Green.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1379,9 +1379,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "62585efd-d93e-8a7e-e9a2-4fb6a6b5feb8",
+			"guid": "1f00884b-6a50-ac1f-a6d6-bf639ceab4f6",
 			"name": "color_magenta",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Magenta.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1395,9 +1395,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "af2c5216-f74b-7fcf-5139-cb596bdba628",
+			"guid": "1cba5a94-ff9f-ad6f-bc6c-f6a1b820882a",
 			"name": "color_orange",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Orange.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1411,9 +1411,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d92192e2-bc1c-1ed3-3db2-40acd84bac33",
+			"guid": "dc605b2c-34fe-8a4d-aa07-e770629a34ef",
 			"name": "color_purple",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Purple.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1427,9 +1427,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "aa628998-e39b-c562-2d2d-8d3169b541ec",
+			"guid": "896f8d68-ab76-230f-dc8e-24756a9f5ffa",
 			"name": "color_red",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Red.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1443,9 +1443,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "61fb7d3a-4639-ed5e-fb08-cdb31732b6da",
+			"guid": "73f98d40-2b96-445c-096f-c168588c0b97",
 			"name": "color_white",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_White.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1459,9 +1459,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "720065f4-2959-c9fd-c3d2-975f5521f77f",
+			"guid": "df3d9c72-cbff-325d-92df-cc34c4342cc5",
 			"name": "color_yellow",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/color_Yellow.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1475,9 +1475,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a995f706-1d6b-89b0-7902-7498a08aeca3",
+			"guid": "25a01afe-7ed8-4752-4be0-c7414952b3ee",
 			"name": "defaultnouvs",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/DefaultNoUVs.dds",
 				"%engine%/engineassets/texturemsg/DefaultNoUVs.dds.1",
@@ -1497,9 +1497,9 @@
 		},
 		{
 			"type": "Material",
-			"guid": "d521c8d1-d1f7-0f74-4d52-146c25f6c00a",
+			"guid": "f5a8209a-7917-df88-38ec-ea1892202af9",
 			"name": "defaultsolids",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/DefaultSolids.mtl" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1517,9 +1517,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dcb479ba-2ccc-954b-0240-c913c03277e9",
+			"guid": "0809fc56-dce8-9b23-a6f9-31690c51597e",
 			"name": "mipmapdebug",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/mipmapdebug.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1533,9 +1533,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b88e60f9-4af6-5f19-17b8-6809281aa2a2",
+			"guid": "cd634d1b-cab8-58db-777a-5789c572d42c",
 			"name": "notfound",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound.dds",
 				"%engine%/engineassets/texturemsg/NotFound.dds.1",
@@ -1554,9 +1554,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8672fd4e-75d8-c053-03a6-48cd109f84d1",
+			"guid": "43b27742-d77a-e6d9-2138-dd48e5a9b8d7",
 			"name": "notfound_a",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_a.dds",
 				"%engine%/engineassets/texturemsg/NotFound_a.dds.1",
@@ -1575,9 +1575,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ede5f425-7af5-0561-7b4e-788b225952f1",
+			"guid": "052d666d-b65a-711b-955a-4a9bbbdcdab3",
 			"name": "notfound_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_cm.dds",
 				"%engine%/engineassets/texturemsg/NotFound_cm.dds.1",
@@ -1597,9 +1597,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f1750745-f919-6557-8340-52f60dbabb98",
+			"guid": "aef5ecfd-85d9-da1b-c10c-5384d4d101a3",
 			"name": "notfound_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/NotFound_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1613,9 +1613,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "30923294-571d-bd8c-0d84-41b0626a0a0e",
+			"guid": "95e09e52-531b-2b18-19a5-0c09238f416a",
 			"name": "notfound_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_ddn.dds",
 				"%engine%/engineassets/texturemsg/NotFound_ddn.dds.1",
@@ -1634,9 +1634,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7eac42d7-a5b0-77f6-4782-956872e5ad30",
+			"guid": "07fd5497-d4c4-2312-b57f-182c1f713e69",
 			"name": "notfound_ddna",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/NotFound_ddna.dds",
 				"%engine%/engineassets/texturemsg/NotFound_ddna.dds.a",
@@ -1659,9 +1659,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2bb2b91c-342f-50e6-4083-79c5ea311aeb",
+			"guid": "6ac97d3d-865f-fea0-9e6e-9ed0b3e90ef9",
 			"name": "orange_for_designer",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/orange_for_designer.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1675,9 +1675,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e86c823f-cf51-015f-b236-08999d4efc7f",
+			"guid": "b2699fe3-6f60-047a-716c-f42ab0da40c8",
 			"name": "physproxytoobig",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/PhysProxyTooBig.dds",
 				"%engine%/engineassets/texturemsg/PhysProxyTooBig.dds.1",
@@ -1696,9 +1696,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "05fc77a9-c282-882a-2e19-772c7a180c6d",
+			"guid": "3f33e990-cf80-4c5e-e732-acd95f5ebc5d",
 			"name": "rcerror_a",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_a.dds",
 				"%engine%/engineassets/texturemsg/RCError_a.dds.1",
@@ -1717,9 +1717,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4a506e4d-d377-19f7-e099-d0947a996208",
+			"guid": "0ea683ca-9d5d-a8de-5d67-1d952e308e3a",
 			"name": "rcerror_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_cm.dds",
 				"%engine%/engineassets/texturemsg/RCError_cm.dds.1",
@@ -1739,9 +1739,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d5ec4598-c31f-0f4a-e088-5e17068b88c1",
+			"guid": "de44a62e-c37a-3e14-4e35-7713b89c6ddb",
 			"name": "rcerror_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/RCError_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1755,9 +1755,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3e3bd948-2953-44ab-a6b0-ac1ac316b5ab",
+			"guid": "43f31d29-6432-a9bd-027d-561b42e94950",
 			"name": "rcerror_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_ddn.dds",
 				"%engine%/engineassets/texturemsg/RCError_ddn.dds.1",
@@ -1776,9 +1776,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dae7597f-ae65-7950-51b4-9572e7f39c13",
+			"guid": "ac319c1c-94b7-852d-3b7f-592c4cd48557",
 			"name": "rcerror_ddna",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/RCError_ddna.dds",
 				"%engine%/engineassets/texturemsg/RCError_ddna.dds.a",
@@ -1801,9 +1801,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d1e9a40e-c1bd-a42a-e070-485eaccf4dfe",
+			"guid": "80adb1d5-99ed-0ea9-3478-200232ce52ea",
 			"name": "replaceme",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ReplaceMe.dds",
 				"%engine%/engineassets/texturemsg/ReplaceMe.dds.1",
@@ -1822,9 +1822,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5a6299b5-96ed-879c-f07e-5b950388b73d",
+			"guid": "d67f70fb-8d8f-caf1-43ab-5366c228d9df",
 			"name": "replacemecm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ReplaceMeCm.dds",
 				"%engine%/engineassets/texturemsg/ReplaceMeCm.dds.1",
@@ -1844,9 +1844,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3c880d8a-0ad8-04ae-a12e-48178bf150b2",
+			"guid": "1df35304-5fe9-54dc-569f-243c2f8de117",
 			"name": "replacemecm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/ReplaceMeCm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1860,9 +1860,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "225458b3-8092-2250-7087-97b0cee3654a",
+			"guid": "a1123c8a-273b-ced8-51cf-c9f7a364dee4",
 			"name": "replacemerelease",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/ReplaceMeRelease.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1876,9 +1876,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f9618290-7060-12ed-9aaa-20f8893119df",
+			"guid": "320a7130-c1f8-3e8f-f43b-7c1ec583bee6",
 			"name": "shadercompiling",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ShaderCompiling.dds",
 				"%engine%/engineassets/texturemsg/ShaderCompiling.dds.1",
@@ -1897,9 +1897,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "cd942998-7a8a-f999-071d-83ad91cf8ac7",
+			"guid": "15f49420-78fc-8a6d-abb0-1fe98925227a",
 			"name": "shadererror",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/ShaderError.dds",
 				"%engine%/engineassets/texturemsg/ShaderError.dds.1",
@@ -1918,9 +1918,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "856d44fe-07c8-7836-5747-0a942c083f12",
+			"guid": "1882c9e2-e172-3a8c-433b-60109d61d2ea",
 			"name": "texturecompiling",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling.dds.1",
@@ -1939,9 +1939,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f7138f92-38c7-4544-5cf3-fa7936d39f5c",
+			"guid": "43082b17-e99f-d743-e8a5-7d1da7614756",
 			"name": "texturecompiling_a",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_a.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_a.dds.1",
@@ -1960,9 +1960,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9ec5554d-82dc-87ab-f8e2-5b9d86452362",
+			"guid": "37704cca-425b-6af2-06af-896230558ac9",
 			"name": "texturecompiling_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_cm.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_cm.dds.1",
@@ -1982,9 +1982,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bbf23fec-b310-9485-9e6e-8644bf9d09ab",
+			"guid": "c33066b1-3845-8034-e59c-35d13fc14cb6",
 			"name": "texturecompiling_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/texturemsg/TextureCompiling_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -1998,9 +1998,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "16740bbd-8dbb-df1b-e1c1-1fc0c6618fa6",
+			"guid": "adc34a3c-f06b-7ee7-6f14-2ba653dbfba5",
 			"name": "texturecompiling_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddn.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddn.dds.1",
@@ -2019,9 +2019,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3a9cb0fc-9d26-312d-ee80-f74e80e0ee04",
+			"guid": "6746bef9-0dc3-07e6-f17a-f0440313351e",
 			"name": "texturecompiling_ddna",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddna.dds",
 				"%engine%/engineassets/texturemsg/TextureCompiling_ddna.dds.a",
@@ -2044,9 +2044,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7a9bef32-6d02-7376-351f-790d86bab837",
+			"guid": "9052bd8e-bdbd-8b81-22a6-545b3e224503",
 			"name": "alienhud_distortionimage",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/alienhud_distortionimage.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2060,9 +2060,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a44fdfa2-c4fc-53ff-9ec9-11ecb5e3f214",
+			"guid": "469fe07c-d3c9-91c8-dad4-2ff19609a2e3",
 			"name": "alienhud_noise1",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/alienhud_noise1.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2076,9 +2076,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "255f975a-7652-2228-c4aa-4b275c587584",
+			"guid": "eb2af9a5-656f-b8fd-bd8c-6ab84eb1b46f",
 			"name": "black",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/black.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2092,9 +2092,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b2d153b4-75b6-e391-a387-5a54060fe0f6",
+			"guid": "4e2092ee-36dc-1521-9e70-0836466cb5f5",
 			"name": "blackalpha",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/BlackAlpha.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2108,9 +2108,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d351e974-176a-bb68-1a91-97d8c80e0338",
+			"guid": "0255419e-b12f-e053-0121-2f0cb129539b",
 			"name": "blackcm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/BlackCM.dds",
 				"%engine%/engineassets/textures/BlackCM.dds.1",
@@ -2130,9 +2130,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3d39dc45-96fa-fde6-7a55-68fa2c926a7c",
+			"guid": "2a6e1f58-b28c-32ed-2940-0188cef67635",
 			"name": "blackcm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/BlackCM_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2146,9 +2146,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0b8464e3-883c-7634-c533-fd38e8dd75b7",
+			"guid": "73821f81-7c1b-a869-6c18-a7c833cded85",
 			"name": "caustics_sampler",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/caustics_sampler.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2162,9 +2162,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "df3c315e-51ae-1dac-3ec5-3f2dd1581d7e",
+			"guid": "89666648-0ca5-4329-8828-f17aac458aa6",
 			"name": "cursor_green",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/Cursor_Green.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2178,9 +2178,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "da54f2f8-8969-ef1b-408e-d4306e51ad9e",
+			"guid": "38caab3e-de8e-7bee-aaf1-17e6d8cf0acc",
 			"name": "default_cch",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/default_cch.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2194,9 +2194,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e4e7e20d-4a5e-35c5-4f45-a7d79e2fa0eb",
+			"guid": "d599d6b1-1372-f69a-a66b-ed7c839b9855",
 			"name": "default_icon",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/default_icon.dds",
 				"%engine%/engineassets/textures/default_icon.dds.1",
@@ -2214,9 +2214,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "68ee93bb-5ab7-2f37-c427-6ed864153ca3",
+			"guid": "dd4eae04-87ac-040d-b1dd-472186d14b21",
 			"name": "default_probe_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/default_probe_cm.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2230,9 +2230,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1be2a24d-42dd-fb4e-5ba1-dd85423a68a0",
+			"guid": "6197c09b-7669-4ee7-ce84-eaecc3b46509",
 			"name": "default_probe_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/default_probe_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2246,9 +2246,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a08d8c06-4455-0714-615d-0b748481cd61",
+			"guid": "13c2d4e3-29ed-c39b-aaa3-de6e0cd9b232",
 			"name": "16_12",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_12.dds",
 				"%engine%/engineassets/textures/defaults/16_12.dds.1",
@@ -2266,9 +2266,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5c049021-8d49-604d-2dad-7e493ec76195",
+			"guid": "79973b37-214a-03b8-fe96-202e523254b1",
 			"name": "16_34",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_34.dds",
 				"%engine%/engineassets/textures/defaults/16_34.dds.1",
@@ -2286,9 +2286,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b4817145-0a6e-2c9a-9847-abb8c3c98e3f",
+			"guid": "f5250b15-7654-a942-0b59-c363fddc56d0",
 			"name": "16_5",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/16_5.dds",
 				"%engine%/engineassets/textures/defaults/16_5.dds.1",
@@ -2306,9 +2306,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9b4900a9-c64b-a8a3-ebb6-d76cab57f0be",
+			"guid": "b7434004-c2d5-3f63-26bc-02bfa8fe2ee2",
 			"name": "16_grey",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/defaults/16_grey.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2322,9 +2322,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ff90d7b9-649e-3942-8fa6-6f29bf9da7b3",
+			"guid": "cc322fff-f29f-4191-3641-f011fa94d126",
 			"name": "defaultnouvs",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/defaults/defaultnouvs.dds",
 				"%engine%/engineassets/textures/defaults/defaultnouvs.dds.1",
@@ -2345,9 +2345,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8291ee93-c31f-3873-fca0-9c559ae15156",
+			"guid": "30350e3b-2113-4543-ec06-3bd01d10f54c",
 			"name": "detaildecalvariation",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/detailDecalVariation.dds",
 				"%engine%/engineassets/textures/detailDecalVariation.dds.1",
@@ -2367,9 +2367,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6047da18-e910-814e-ac66-50b2d58ee83d",
+			"guid": "53a16029-fc19-8912-6a95-f2202994a308",
 			"name": "dither_2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/dither_2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2383,9 +2383,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "df2a5af5-ca49-47c9-9c2c-f655548a5988",
+			"guid": "71c0e9f2-cc98-ecf2-08ed-e68778990ddd",
 			"name": "dither_pattern_2d",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/dither_pattern_2d.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2399,9 +2399,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "98b7787d-1586-c303-24f0-0efcbff8aa27",
+			"guid": "f9209dfa-44b8-5d13-34a8-052790344d85",
 			"name": "arc",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2415,9 +2415,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2ed9f3d3-15e4-a757-1682-4f4b8ceab7fd",
+			"guid": "592475db-fd5c-7f97-b2b6-b337ea8c5411",
 			"name": "arc2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2431,9 +2431,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c75b300b-3d97-bbcc-937c-f10d3fc8063e",
+			"guid": "e05be538-cb8b-4d28-7e6f-646ef2f79d27",
 			"name": "arc_full",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc_full.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2447,9 +2447,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6bc653d4-43e5-eeac-dafe-d9472bba01d2",
+			"guid": "ec2d4d15-d832-a687-ffa7-00060409fd82",
 			"name": "arc_full2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/arc_full2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2463,9 +2463,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6e5620f0-26a3-1464-e651-559c12a8496c",
+			"guid": "27dffe64-b069-6e7d-0ed2-cac5ce02571a",
 			"name": "circle_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/circle_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2479,9 +2479,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fb0ed8ea-2ef6-3c09-d036-5e8dc7b880e3",
+			"guid": "36e65d38-cfc8-bd7e-c8af-3fd564b1faed",
 			"name": "circle_smudgy_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/circle_smudgy_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2495,9 +2495,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "deedefab-3e93-d8f4-bd06-ed9d369ab4ec",
+			"guid": "cc68dd63-d017-63a3-2523-73891fcb120a",
 			"name": "default-flare",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-flare.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2511,9 +2511,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1901f078-1832-dfd2-95ea-afc6706e71a2",
+			"guid": "b7399547-d300-3f68-aa53-30deadaed046",
 			"name": "default-flares_tile_2x2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-flares_tile_2x2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2527,9 +2527,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "862e8216-7d43-ee21-9608-4ffa5f4b6f4f",
+			"guid": "bd2dbe16-09fa-e477-f9af-2f84acbc1be6",
 			"name": "default-orb",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/default-orb.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2543,9 +2543,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7b8ab807-e882-a28d-fb74-c15348bef35c",
+			"guid": "40a7f277-c783-3119-a345-ee65d293a4c4",
 			"name": "elipse_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/elipse_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2559,9 +2559,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d9d28634-7683-ce84-617e-f7f80937cc66",
+			"guid": "7bf8fcd9-f376-ada2-baa6-3acc85a6e9b4",
 			"name": "ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2575,9 +2575,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "41be41e6-8955-429d-e52a-af4937470297",
+			"guid": "d69882c8-ca87-ad41-5558-8bf885328a76",
 			"name": "glow",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/glow.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2591,9 +2591,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "441bcc93-97d5-d927-122c-69c3d90abdc9",
+			"guid": "726e498d-b6a6-889f-4505-245227b666cc",
 			"name": "iris_shafts",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/iris_shafts.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2607,9 +2607,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6f32f130-2395-16a3-e1c3-291bf97662a8",
+			"guid": "cb988004-8fb8-a74e-bd40-cdd1a3234410",
 			"name": "multi_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/multi_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2623,9 +2623,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "82e144b1-c144-5dc6-d84a-52f69b60e816",
+			"guid": "3860651f-423c-fc3b-0bca-2f9bf007b4e4",
 			"name": "orbs",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/orbs.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2639,9 +2639,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "22939f5a-690e-9884-d3fb-b5f946b4d9a8",
+			"guid": "6c3ffcd3-62fc-d7c9-647c-460d4832ebf5",
 			"name": "ring",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/ring.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2655,9 +2655,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4b003fb8-9db8-1ec4-4d0a-e241423db090",
+			"guid": "75484d07-757b-de44-b1d8-94057fe45274",
 			"name": "test_demo",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/test_demo.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2671,9 +2671,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "fac83133-44d4-d966-3045-f07447816787",
+			"guid": "d1d5de38-7a1a-9f4c-16c4-f06fcbc24225",
 			"name": "vol_shafts",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/icons/vol_shafts.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2687,9 +2687,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4c568d39-69a4-5997-72f6-7e3c147a2780",
+			"guid": "f5d7bd41-7b48-79cc-2c90-2dbfbfb70e98",
 			"name": "lens_flare1-wide",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/lens_flare1-wide.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2703,9 +2703,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d993fd13-3705-7e01-b4bb-f0e773556b0d",
+			"guid": "b1ae18b9-28d9-466d-8225-77559f916014",
 			"name": "luma_falloff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/luma_falloff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2719,9 +2719,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "18cfb7db-9b3b-4237-87ef-01abd32638ea",
+			"guid": "a08fe364-1f0c-1a7f-4b04-e6b8fb4d78cd",
 			"name": "luma_falloff2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/luma_falloff2.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2735,9 +2735,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7e7ed1c1-cd70-9d7f-cee3-3b9cc21f7a32",
+			"guid": "dc1b448c-6952-4448-ad86-b8127c4ffeee",
 			"name": "pentagon_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2751,9 +2751,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "82a525cb-3e6d-5c2a-5160-dd2d5feca3a2",
+			"guid": "7934e200-3943-83aa-cc63-fc73a33c76ff",
 			"name": "pentagon_ghost_cellular",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_cellular.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2767,9 +2767,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "20b0a868-7a82-b875-95a0-afa15098eea5",
+			"guid": "71710d55-fd56-85d0-4a5b-1ffe3a3ae9f1",
 			"name": "pentagon_ghost_darkened",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_darkened.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2783,9 +2783,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "082ff06a-6e21-65c9-0c20-4dc047f05208",
+			"guid": "7c71d949-2c40-eb57-04a2-0b4f8cf9f5ea",
 			"name": "pentagon_ghost_smudgy",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/pentagon_ghost_smudgy.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2799,9 +2799,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6ce69e21-446e-6e37-600c-10e67430e9ef",
+			"guid": "878073d0-4002-9854-a9d9-822e401f71d0",
 			"name": "rectangular_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/rectangular_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2815,9 +2815,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9877a216-bc01-09ed-65e4-b59d8ae4d886",
+			"guid": "ed1832b4-d5a4-8786-8eb0-5a6c141f2a0a",
 			"name": "smudgy",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/Smudgy.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2831,9 +2831,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "20549394-f180-c595-922e-591c3852865f",
+			"guid": "02ab3535-64f4-793d-a515-ce123e2d231f",
 			"name": "smudgy_ghost",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/smudgy_ghost.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2847,9 +2847,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e9b8a693-d84e-01ce-fb66-7988607ac9ea",
+			"guid": "de1f141a-d4b4-807a-8164-e31cad7ad9e0",
 			"name": "spectrum_full",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/spectrum_full.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2863,9 +2863,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "59e6f1dc-833f-2b39-1f58-fe4c8dbf4f05",
+			"guid": "06b0f042-dc46-3827-9ef0-8f77173a0ea1",
 			"name": "spectrum_spike",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/spectrum_spike.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2879,9 +2879,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4df34dd8-bbf6-a957-9252-9d81fed99f6c",
+			"guid": "5cfeeb10-96c4-5d54-dcea-81d47620eee2",
 			"name": "visorflare_square01",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/flares/VisorFlare_square01.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2895,9 +2895,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ce95bdcc-efe7-e3fe-8fc6-79ac7d8c605d",
+			"guid": "7f77c55e-8213-3361-266c-85982e427c68",
 			"name": "fogvolshadowjitter",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/FogVolShadowJitter.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2911,9 +2911,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "763d13a8-6ce2-d9b3-eb13-54678cec5b62",
+			"guid": "3520834f-01af-47a8-4193-1224174c43c0",
 			"name": "fresnel_sampler",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/fresnel_sampler.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2927,9 +2927,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "867b644b-dfb3-97a8-dd43-53ad4f637efb",
+			"guid": "d52748d3-feb6-5ad3-8b5a-bdc11e04bd6a",
 			"name": "fringe_map",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/fringe_map.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2943,9 +2943,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c7673dd6-f942-2f07-55c9-c2291013f338",
+			"guid": "a89288b9-aee0-164e-ed54-6f20f1a37183",
 			"name": "frost_refl2",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/frost_refl2.dds",
 				"%engine%/engineassets/textures/frost_refl2.dds.1",
@@ -2965,9 +2965,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5ba9982e-d5d3-f358-3948-ceac9d60251f",
+			"guid": "0f95cd04-a0c6-fa61-defa-92c50ce75443",
 			"name": "frost_noise3",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/frozen/frost_noise3.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -2981,9 +2981,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6ee72313-5968-26ca-fc8d-bce7a3bd0ede",
+			"guid": "909d4056-f537-0f49-4b24-628ef7e63303",
 			"name": "frost_noise4",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/frozen/frost_noise4.dds",
 				"%engine%/engineassets/textures/frozen/frost_noise4.dds.1",
@@ -3004,9 +3004,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5bba354c-cf0a-20aa-786c-4a858de7526e",
+			"guid": "e952ba1e-8638-1906-38f2-1e0ac9f2e5c0",
 			"name": "snow_spatter",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/frozen/snow_spatter.dds",
 				"%engine%/engineassets/textures/frozen/snow_spatter.dds.1",
@@ -3027,9 +3027,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "af919342-2bd9-a8ec-968c-dc06cc91fc0b",
+			"guid": "7b7cb031-acc1-40a0-c52c-f9993c51ab6b",
 			"name": "fuzzy_pow_sampler_merged",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/fuzzy_pow_sampler_merged.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3043,9 +3043,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "76fbc0f3-f53c-0138-5963-2dff7ec408a6",
+			"guid": "f364f1fa-b115-4a3a-40fb-8e8a62ca415d",
 			"name": "glass_decalatlas_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/glass_decalatlas_ddn.dds",
 				"%engine%/engineassets/textures/glass_decalatlas_ddn.dds.1",
@@ -3067,9 +3067,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "77ff6a71-7283-65e3-2005-3064cf47ee35",
+			"guid": "fefb3ddc-0139-7ff8-51e6-52e8fc163e06",
 			"name": "glass_decalatlas_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/glass_decalatlas_diff.dds",
 				"%engine%/engineassets/textures/glass_decalatlas_diff.dds.1",
@@ -3091,9 +3091,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8cf4b185-034b-c52b-5d5f-13d4933bd2ba",
+			"guid": "26c6d862-7a50-d9e0-32de-4f8ebae9e58e",
 			"name": "grey",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/grey.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3107,9 +3107,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "13b18480-ae61-1b9d-5746-a37dcfcff571",
+			"guid": "0508a0e8-aadc-1a52-3cc9-f571d45d5f94",
 			"name": "greyalpha",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/GreyAlpha.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3123,9 +3123,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dda8c537-137d-f2e7-64fb-f177b485b3b6",
+			"guid": "80058feb-c32f-027e-58c8-cdf83cca7932",
 			"name": "hex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hex.dds",
 				"%engine%/engineassets/textures/hex.dds.1",
@@ -3144,9 +3144,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5665d7d2-de44-4e03-4168-af50133eef37",
+			"guid": "6a6d09a2-4876-bbb3-158f-da8658ec78b5",
 			"name": "hex_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_ddn.dds",
 				"%engine%/engineassets/textures/hex_ddn.dds.1",
@@ -3165,9 +3165,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "65772a6b-e96b-869c-ddf9-d898306c46b6",
+			"guid": "eb112a51-4a80-8935-376c-8476f72d9422",
 			"name": "hex_grad",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_grad.dds",
 				"%engine%/engineassets/textures/hex_grad.dds.1",
@@ -3186,9 +3186,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "cb060d83-1437-b2d7-85cb-9ad2ce5a61d4",
+			"guid": "358f6509-4b4a-47d9-2cc1-b4def908c19a",
 			"name": "hex_line",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_line.dds",
 				"%engine%/engineassets/textures/hex_line.dds.1",
@@ -3206,9 +3206,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "677c17d5-04c2-9066-8e3f-f801de8799e5",
+			"guid": "c4c703e6-b3e1-e6b0-8ac4-ac98b064bda7",
 			"name": "hex_rand",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hex_rand.dds",
 				"%engine%/engineassets/textures/hex_rand.dds.1",
@@ -3227,9 +3227,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "249a74e9-07fc-bed3-1930-606979192645",
+			"guid": "f832f568-2cf4-58fd-9fdf-83bfaf55e8db",
 			"name": "hiteffect_areas",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_areas.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3243,9 +3243,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a8101011-5b58-f199-cfc8-28afa4c2e932",
+			"guid": "fe1918b8-3d48-f93b-2144-be53cb8f0c2b",
 			"name": "hiteffect_blurmask_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_blurmask_ddn.dds",
 				"%engine%/engineassets/textures/hiteffect_blurmask_ddn.dds.1",
@@ -3266,9 +3266,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "1c54f66f-6946-4789-9f54-a2cf7ec435c9",
+			"guid": "48468f13-ccc3-7c89-a92c-937057b5f9ad",
 			"name": "hiteffect_healthgradient",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_healthgradient.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3282,9 +3282,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "96922250-e71f-6992-88e7-76a98728ceea",
+			"guid": "cdb4eb8f-3121-2e0e-a3ed-0093329e8032",
 			"name": "hiteffect_lvlgradient",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/hiteffect_lvlgradient.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3298,9 +3298,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f9a0d539-08b7-ce05-e200-c84b1606a9e9",
+			"guid": "b199d2f3-40aa-97e6-3340-5ce0d49e5158",
 			"name": "hiteffect_round",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_round.dds",
 				"%engine%/engineassets/textures/hiteffect_round.dds.1",
@@ -3318,9 +3318,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7fb6608b-ff9b-43e7-65cb-0e4e73f7bec3",
+			"guid": "6a8c9811-30de-6e8e-6ad7-34d663e09d17",
 			"name": "hiteffect_veinsblood",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/hiteffect_veinsblood.dds",
 				"%engine%/engineassets/textures/hiteffect_veinsblood.dds.1",
@@ -3340,9 +3340,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a1aaff42-af4d-7513-e599-054f059be95d",
+			"guid": "ddaeb1ff-46ec-2f93-83bb-ce7c8dfa6dae",
 			"name": "interference",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/interference.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3356,9 +3356,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a9b3e30d-d537-e8fa-9c24-b426ed90bb87",
+			"guid": "07c5d10a-3d49-fcf0-f6c0-92ba67814668",
 			"name": "jumpnoisehighfrequency_x27y19",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/jumpnoisehighfrequency_x27y19.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3372,9 +3372,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4ea8c877-1c6f-92e6-7f70-4d461bf4e2ad",
+			"guid": "85690fea-04ed-7e2f-0a95-dc6b03d3a463",
 			"name": "alien_ringlight",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/alien_ringlight.dds",
 				"%engine%/engineassets/textures/lights/alien_ringlight.dds.1",
@@ -3395,9 +3395,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ec952103-dcef-ce58-1da2-d41f1e1e142e",
+			"guid": "56516dbf-ec46-66cb-d6cc-e95a9b45d0bd",
 			"name": "ce_logo_black",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/ce_logo_black.dds",
 				"%engine%/engineassets/textures/lights/ce_logo_black.dds.1",
@@ -3418,9 +3418,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d1407913-20f2-0d49-3d42-ac355bb29407",
+			"guid": "c7ecc51e-7d1a-f3f6-db0c-c5bd86dfd9ea",
 			"name": "ce_logo_white",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/ce_logo_white.dds",
 				"%engine%/engineassets/textures/lights/ce_logo_white.dds.1",
@@ -3441,9 +3441,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "28c627dd-b82b-6d12-e3a8-e5e4b7512ed1",
+			"guid": "7b299646-ef05-19bc-f906-659457aeec3a",
 			"name": "donut_light",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/donut_light.dds",
 				"%engine%/engineassets/textures/lights/donut_light.dds.1",
@@ -3464,9 +3464,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0c38a29b-7dbe-033e-970a-4c1ba8187f4e",
+			"guid": "4440ba50-c26f-1675-1b29-2b26e3a14904",
 			"name": "flashlight_projector",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/flashlight_projector.dds",
 				"%engine%/engineassets/textures/lights/flashlight_projector.dds.1",
@@ -3487,9 +3487,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3aca9387-3aba-62d0-56e8-f9357169dd9d",
+			"guid": "be8aa5f0-a868-bf93-e984-8b08158960e4",
 			"name": "horzontal_projector_100",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/horzontal_projector_100.dds",
 				"%engine%/engineassets/textures/lights/horzontal_projector_100.dds.1",
@@ -3510,9 +3510,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9eefe213-75cd-0405-feb4-4c01f4d6c3b9",
+			"guid": "5a358dcd-403c-cd41-0000-c502ba3db529",
 			"name": "lens_flare1",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/lens_flare1.dds",
 				"%engine%/engineassets/textures/lights/lens_flare1.dds.a",
@@ -3539,9 +3539,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a301f3fd-ff00-14b9-8e66-10dad828d132",
+			"guid": "b76279ea-fa59-6463-5e43-377d80fa5b85",
 			"name": "rectangular_projector_100",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_100.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_100.dds.1",
@@ -3562,9 +3562,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5436032c-976d-c013-5f11-8f8f76f30288",
+			"guid": "d50929dd-aa1c-fe1e-f053-8cf8a7ab8aa9",
 			"name": "rectangular_projector_33",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_33.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_33.dds.1",
@@ -3585,9 +3585,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c00a9f52-f57e-1bae-7286-84aaa5bfc3b6",
+			"guid": "283e7663-6a4c-0b95-bd9a-1555f8438bdf",
 			"name": "rectangular_projector_66",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/rectangular_projector_66.dds",
 				"%engine%/engineassets/textures/lights/rectangular_projector_66.dds.1",
@@ -3608,9 +3608,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "21a1e825-2f39-0256-bdb9-e24e9c38fcb2",
+			"guid": "6bbc9777-c225-8e95-b1d9-74de8b681ca4",
 			"name": "softedge",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/softedge.dds",
 				"%engine%/engineassets/textures/lights/softedge.dds.1",
@@ -3631,9 +3631,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4d552d64-8b64-cc0e-34eb-cb34f5c34ccf",
+			"guid": "eb52936d-6155-9124-0795-fe742c99da38",
 			"name": "spot_005",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_005.dds",
 				"%engine%/engineassets/textures/lights/spot_005.dds.1",
@@ -3654,9 +3654,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "00b222a1-158d-ebab-5be5-da8b8d37a7c8",
+			"guid": "71c40186-d58e-cd45-64ae-2f62e312fc39",
 			"name": "spot_025",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_025.dds",
 				"%engine%/engineassets/textures/lights/spot_025.dds.1",
@@ -3677,9 +3677,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8a2fabb2-cdcb-c969-3b10-f193f64cc763",
+			"guid": "5738a7a2-8659-4c52-cc84-08c38849f2ec",
 			"name": "spot_050",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_050.dds",
 				"%engine%/engineassets/textures/lights/spot_050.dds.1",
@@ -3700,9 +3700,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5f28696f-c6c3-9797-932b-627ba4b5393f",
+			"guid": "87e2d121-eb65-ea88-8c48-10680ffe285b",
 			"name": "spot_075",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_075.dds",
 				"%engine%/engineassets/textures/lights/spot_075.dds.1",
@@ -3723,9 +3723,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "39f96062-146e-233e-4c99-be7fc9ac0793",
+			"guid": "4c575f43-0def-c8a2-ce2c-774197092301",
 			"name": "spot_100",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/spot_100.dds",
 				"%engine%/engineassets/textures/lights/spot_100.dds.1",
@@ -3746,9 +3746,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "05e3d705-e355-9c51-9c12-845ff89540a2",
+			"guid": "9c3fb214-e3ef-f7c9-bba3-a9de00dc37a8",
 			"name": "vertical_projector_100",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/lights/vertical_projector_100.dds",
 				"%engine%/engineassets/textures/lights/vertical_projector_100.dds.1",
@@ -3769,9 +3769,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e5f9a776-8529-410f-6915-56ce6e12b32a",
+			"guid": "9e9ef325-93fe-4b64-3b0e-1474129d713d",
 			"name": "white_disk_areatex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/lights/white_disk_areatex.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3785,9 +3785,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d9ea7eff-4d91-9fab-4f93-66caeaac5b11",
+			"guid": "4cadd142-6934-d902-2f15-2f11e419b01e",
 			"name": "white_rectangle_areatex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/lights/white_rectangle_areatex.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3801,9 +3801,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b2fdacb3-5ea2-783b-67c8-bbee9a16b2d4",
+			"guid": "2ab54a1e-d5ea-d811-ae83-65231a0b0407",
 			"name": "moisturedroplets",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/moisturedroplets.dds",
 				"%engine%/engineassets/textures/moisturedroplets.dds.1",
@@ -3824,9 +3824,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "248a9ec3-f866-163b-d58f-c18b63f5ed79",
+			"guid": "bc2982d3-063c-e571-c7ef-150eeba63459",
 			"name": "nightvis_grad",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/nightvis_grad.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3840,9 +3840,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5383e918-1ffe-1104-0b64-e56211f6b6c6",
+			"guid": "305c264b-7b49-fa52-2aff-ada62aa40534",
 			"name": "noise",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/noise.dds",
 				"%engine%/engineassets/textures/noise.dds.1",
@@ -3860,9 +3860,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2b8b6b48-5d62-9813-6130-aba01f856452",
+			"guid": "122c5496-de76-54ae-23bc-3a03f79952fa",
 			"name": "noise3d",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/noise3d.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3876,9 +3876,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "28deee91-e29f-fe78-3067-d2c34f4304c3",
+			"guid": "89d46156-856a-86f7-7b8f-b2c122c358d6",
 			"name": "oceanwaves_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/oceanwaves_ddn.dds",
 				"%engine%/engineassets/textures/oceanwaves_ddn.dds.1",
@@ -3898,9 +3898,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "bd29da8d-5b91-51f2-2f69-64454d808763",
+			"guid": "d88fa5f1-68d0-f2bd-3139-87f83254fb31",
 			"name": "cloak_interlation",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_interlation.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3914,9 +3914,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2e64a639-b91e-462c-d6f2-0f6b7c2cb2f3",
+			"guid": "0748c14c-6764-a854-459c-6bb173f3e2ef",
 			"name": "cloak_palette",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_palette.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3930,9 +3930,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "39d78521-dffa-d5a6-f3ac-c0bd6a5e100b",
+			"guid": "5567c554-4c21-246e-3143-7dd5ab483c66",
 			"name": "cloak_sparks",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_sparks.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3946,9 +3946,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "abff8422-0a90-355d-97fc-71bf24d51774",
+			"guid": "8e10af82-c895-e619-c0c3-2676f42312e5",
 			"name": "cloak_transition",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/palette/cloak_transition.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3962,9 +3962,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a7f1022b-af0d-d96c-6e93-55dd9e99fc59",
+			"guid": "a96cc315-34b7-686f-8fd4-1ec18e0cc845",
 			"name": "palletteinst",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/palletteInst.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -3978,9 +3978,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e85d8ebf-663d-65d3-894a-6b52e7fe9b04",
+			"guid": "6d887019-eb28-0fdf-7d82-67d72c06483c",
 			"name": "perlinnoise2d",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise2d.dds",
 				"%engine%/engineassets/textures/perlinNoise2d.dds.1",
@@ -4000,9 +4000,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "119e149a-5e9f-b127-6f18-4ba8000e5aa0",
+			"guid": "1861c9fe-75fd-d44f-5723-cbd077db0612",
 			"name": "perlinnoise_sum",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise_sum.dds",
 				"%engine%/engineassets/textures/perlinNoise_sum.dds.1",
@@ -4022,9 +4022,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dc7a2406-32c6-dcdb-4216-c03d0e40310c",
+			"guid": "784c9527-e0f4-3cce-417f-94870bcc0429",
 			"name": "perlinnoise_sum_small",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoise_sum_small.dds",
 				"%engine%/engineassets/textures/perlinNoise_sum_small.dds.1",
@@ -4043,9 +4043,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a52c4acd-a318-cee4-b152-d7d086a4386b",
+			"guid": "35c7ebc0-feb3-13e0-b4ed-b8867d532e35",
 			"name": "perlinnoisederivatives",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoiseDerivatives.dds",
 				"%engine%/engineassets/textures/perlinNoiseDerivatives.dds.1",
@@ -4065,9 +4065,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "dcc028bc-b91f-b8fe-cedc-292f9f3a494e",
+			"guid": "89a9881b-a32b-3700-85f6-35a03ccfb47c",
 			"name": "perlinnoisenormal_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/perlinNoiseNormal_ddn.dds",
 				"%engine%/engineassets/textures/perlinNoiseNormal_ddn.dds.1",
@@ -4087,9 +4087,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7f1b79d9-4258-4240-87ee-64d917c7d60f",
+			"guid": "02560d7f-f2e8-da99-4337-ff2f4b30c6b2",
 			"name": "pixeltex",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/pixeltex.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4103,9 +4103,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a8887127-1736-19aa-32bc-28a2bf2063bc",
+			"guid": "122921f0-8cc0-3385-f416-30efd16180f4",
 			"name": "puddle_mask",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/puddle_mask.dds",
 				"%engine%/engineassets/textures/rain/puddle_mask.dds.1",
@@ -4126,9 +4126,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3724a661-e716-db49-ee91-f5da2f959373",
+			"guid": "b977cce1-097e-fe29-287c-5bed841b1058",
 			"name": "rain_spatter",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rain_spatter.dds",
 				"%engine%/engineassets/textures/rain/rain_spatter.dds.1",
@@ -4148,9 +4148,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "aee7fc95-49d7-00da-da1b-a24a0b11baba",
+			"guid": "e4c09781-2518-733b-b96d-1382e41a33b2",
 			"name": "rain_streak",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rain_streak.dds",
 				"%engine%/engineassets/textures/rain/rain_streak.dds.1",
@@ -4171,9 +4171,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "739214d3-189c-5887-4777-a38e8e36fa92",
+			"guid": "912be6aa-d1df-daf4-1bef-81c46998bf7f",
 			"name": "rainfall",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rainfall.dds",
 				"%engine%/engineassets/textures/rain/rainfall.dds.1",
@@ -4194,9 +4194,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5bc93247-de38-63e1-6909-788b6cd4a64b",
+			"guid": "0f11c18b-eaf3-ea15-f755-4ef922fe8a1c",
 			"name": "rainfall_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/rainfall_ddn.dds",
 				"%engine%/engineassets/textures/rain/rainfall_ddn.dds.1",
@@ -4217,9 +4217,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a9f2d624-3d98-e165-6dce-1b8eba59d725",
+			"guid": "e6875db9-0d32-2d99-31b2-e9a366874860",
 			"name": "ripple10_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple10_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple10_ddn.dds.1",
@@ -4239,9 +4239,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c905a5a8-dac2-0010-c2e4-098bd355fc1b",
+			"guid": "43c47762-43af-4440-eb05-4e387a85a7cd",
 			"name": "ripple11_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple11_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple11_ddn.dds.1",
@@ -4261,9 +4261,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "67009fc9-0183-f901-66d9-f66090d69f95",
+			"guid": "56f7f128-4e75-d349-fa54-874d8b6da7a8",
 			"name": "ripple12_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple12_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple12_ddn.dds.1",
@@ -4283,9 +4283,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "44d97714-bf41-f9ee-bc01-c236b697c51d",
+			"guid": "f5fbdc04-7793-a4b5-a62a-11056658f3f9",
 			"name": "ripple13_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple13_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple13_ddn.dds.1",
@@ -4305,9 +4305,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6c95e1e9-62d2-f999-02e8-2a2a7ada85ec",
+			"guid": "893c2cff-573d-7b55-f923-513e8c989a07",
 			"name": "ripple14_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple14_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple14_ddn.dds.1",
@@ -4327,9 +4327,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ea956d6c-29ed-5618-366e-b8b4e572d6db",
+			"guid": "da7dd9a1-87bb-4ba5-4c65-13eacc1f7713",
 			"name": "ripple15_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple15_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple15_ddn.dds.1",
@@ -4349,9 +4349,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "249c26fe-3166-28ce-74f8-48d739f435d7",
+			"guid": "72bdabca-3abb-6626-9765-2b8eb1854596",
 			"name": "ripple16_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple16_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple16_ddn.dds.1",
@@ -4371,9 +4371,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7bb454be-523f-e7c3-9d54-7c14201fa225",
+			"guid": "0d99e948-d0d1-ebe4-10d6-ec21055200c7",
 			"name": "ripple17_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple17_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple17_ddn.dds.1",
@@ -4393,9 +4393,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "3ebe5290-837c-0480-e2db-55928aaaf62a",
+			"guid": "4fbe78f1-e6d3-2ad9-4387-adb6c67de533",
 			"name": "ripple18_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple18_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple18_ddn.dds.1",
@@ -4415,9 +4415,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5f20ef85-371e-1640-5d41-a596b0223aad",
+			"guid": "8bf7023c-59db-b120-9173-0998bec84080",
 			"name": "ripple19_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple19_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple19_ddn.dds.1",
@@ -4437,9 +4437,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "0e6f6fcd-00e2-079c-7c57-60fc444f05d9",
+			"guid": "4bce6276-a9b8-0670-ae0c-16345b2f7a78",
 			"name": "ripple1_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple1_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple1_ddn.dds.1",
@@ -4459,9 +4459,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6819c995-a0cb-a47d-84ff-31a8756d9376",
+			"guid": "91c287c1-6a31-427a-c6ce-c6d063d0ffdc",
 			"name": "ripple20_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple20_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple20_ddn.dds.1",
@@ -4481,9 +4481,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "49a6e990-4a32-a741-f469-8f86b4a96124",
+			"guid": "df5c1ddd-929c-7771-029f-7d70565a40f6",
 			"name": "ripple21_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple21_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple21_ddn.dds.1",
@@ -4503,9 +4503,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2008b303-91a6-0e8a-0423-cc053863caea",
+			"guid": "ff9c96b1-cea7-b035-488e-09d14514d828",
 			"name": "ripple22_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple22_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple22_ddn.dds.1",
@@ -4525,9 +4525,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "8eb4b5af-1a62-a4f6-1314-e25c41fffed8",
+			"guid": "3598b876-82b0-75ff-cf02-52f643ee3323",
 			"name": "ripple23_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple23_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple23_ddn.dds.1",
@@ -4547,9 +4547,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "d31635df-b03b-a8e1-8fec-2526aabf97b6",
+			"guid": "ffe01b56-4f04-7176-5581-720efc5dc2f0",
 			"name": "ripple24_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple24_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple24_ddn.dds.1",
@@ -4569,9 +4569,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "df1d0266-68c2-909a-a0ea-e3ed19149d80",
+			"guid": "8281ab9f-fdd5-afed-3c65-8f7c476c8af8",
 			"name": "ripple2_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple2_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple2_ddn.dds.1",
@@ -4591,9 +4591,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "23bcd1d6-caef-0793-1232-999bddfc54d2",
+			"guid": "0528ece7-cc51-f9f8-a8d5-f8e4fd519296",
 			"name": "ripple3_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple3_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple3_ddn.dds.1",
@@ -4613,9 +4613,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "317ca7bc-8179-7a84-0b27-2cd9cdd42319",
+			"guid": "5cc63f8b-a9e1-cf0b-b6b7-384a1b5e89ff",
 			"name": "ripple4_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple4_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple4_ddn.dds.1",
@@ -4635,9 +4635,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "761d5c65-567c-7a38-5aa4-7906539c0a75",
+			"guid": "fbb5fc4c-2036-8c05-2471-32913c530cbc",
 			"name": "ripple5_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple5_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple5_ddn.dds.1",
@@ -4657,9 +4657,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5e935526-792b-05a6-229f-5eaa6716b6eb",
+			"guid": "7573b1aa-008b-438e-d255-b833818d086e",
 			"name": "ripple6_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple6_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple6_ddn.dds.1",
@@ -4679,9 +4679,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6a1774d6-31f8-9423-126c-1c2a4091bf93",
+			"guid": "15c4c2ad-7ee7-0b57-5974-e85d9a40ac2d",
 			"name": "ripple7_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple7_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple7_ddn.dds.1",
@@ -4701,9 +4701,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "f493baca-c323-3866-5438-a701d70a8372",
+			"guid": "98ee9361-4b80-47d0-f052-f763839ca307",
 			"name": "ripple8_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple8_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple8_ddn.dds.1",
@@ -4723,9 +4723,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4dfe821a-5e78-143d-4012-1f4a2dd3b28c",
+			"guid": "ea2c89c9-7ff3-aff7-6679-552355c4acdc",
 			"name": "ripple9_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/ripple/ripple9_ddn.dds",
 				"%engine%/engineassets/textures/rain/ripple/ripple9_ddn.dds.1",
@@ -4745,9 +4745,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b08c39b8-82cc-6527-fd5c-2fe80ccc129d",
+			"guid": "cd19aaf7-4501-70b1-2df8-d27bd2c4fafe",
 			"name": "surface_flow_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/rain/surface_flow_ddn.dds",
 				"%engine%/engineassets/textures/rain/surface_flow_ddn.dds.1",
@@ -4767,9 +4767,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a543c24e-e68d-546a-1401-7c25cc9cb406",
+			"guid": "7db7e345-749c-c2da-1e16-2da4e98437ca",
 			"name": "rotrandom",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/rotrandom.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4779,9 +4779,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "5c11da6b-fa0c-5c6a-764e-862b412f8ade",
+			"guid": "1485f9b9-c8a5-2ca0-1dc2-b049cdafe7d7",
 			"name": "rotrandomcm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/rotrandomcm.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4795,9 +4795,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "6eb1670a-f816-a8c7-455a-dd12e54a6b07",
+			"guid": "828e9cb5-80b7-606b-6e6b-5bb242f5d0a8",
 			"name": "scratch",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/scratch.dds",
 				"%engine%/engineassets/textures/scratch.dds.1",
@@ -4818,9 +4818,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "285e5553-bf78-8e1b-3eb2-780a5a1f9e84",
+			"guid": "edd7b90f-9445-8f1e-3a9c-0a4e46a45429",
 			"name": "scratch_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/scratch_ddn.dds",
 				"%engine%/engineassets/textures/scratch_ddn.dds.1",
@@ -4841,9 +4841,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "e0a9da00-4076-a0e7-ed7a-8e1e6c944deb",
+			"guid": "5f02b404-ef1f-ebf9-1a35-0eceaf7a6794",
 			"name": "screen_noisy_bump",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/screen_noisy_bump.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4857,9 +4857,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "348e7c82-f0d0-1c0b-988a-d137b37cf5bd",
+			"guid": "3361c4a4-5aaf-5990-3413-0b7ae5c52167",
 			"name": "screenfrost_alpha",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/screenfrost_alpha.dds",
 				"%engine%/engineassets/textures/screenfrost_alpha.dds.1",
@@ -4880,9 +4880,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "c3d5f3b1-9892-6afa-5d53-a50b0f1d8b3d",
+			"guid": "b69025b5-31c4-d9fa-de79-8d1e93e42625",
 			"name": "screenfrost_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/screenfrost_ddn.dds",
 				"%engine%/engineassets/textures/screenfrost_ddn.dds.1",
@@ -4903,9 +4903,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "2d6f5eb6-f06c-e4cf-9ba8-6af338f394b9",
+			"guid": "d77e4195-7c30-3474-d4eb-4fd51b25ffae",
 			"name": "half_moon",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/skys/night/half_moon.dds",
 				"%engine%/engineassets/textures/skys/night/half_moon.dds.1",
@@ -4927,9 +4927,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "80a4edc8-66ea-fa24-ca5d-a786bb349a83",
+			"guid": "78edeadc-d40e-46b8-6e45-77f88f527c5d",
 			"name": "snowflakes",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/snowflakes.dds",
 				"%engine%/engineassets/textures/snowflakes.dds.1",
@@ -4949,9 +4949,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "a49ddab6-18ab-45ba-9ac1-b6b34ef899f3",
+			"guid": "07e41d65-a035-37d0-43ac-94f712c6499a",
 			"name": "startscreen_eaas",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/startscreen_eaas.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4965,9 +4965,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7c22effc-09c0-e443-5531-cc4e298817b2",
+			"guid": "aa6d75d9-7cad-e14e-a878-610f33b342b2",
 			"name": "texelspermetergrad",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/TexelsPerMeterGrad.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4981,9 +4981,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "b46d8512-d53a-0b8e-87ed-34651fc4a1f8",
+			"guid": "9a0f2778-584d-f18a-9f66-ccb05963a8a9",
 			"name": "vector_noise",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/vector_noise.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -4997,9 +4997,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "db5f9da5-e280-b4d2-a6dd-1e6cd5a003af",
+			"guid": "1bc1a580-a6e3-6def-ed08-771b2132d687",
 			"name": "volumeraster",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/VolumeRaster.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5013,9 +5013,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "766571cd-21d6-ea05-6d75-773cdbded146",
+			"guid": "3c0e7c93-4d3e-47be-2dfc-18ab76abcdf5",
 			"name": "water_droplets",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/water_droplets.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5029,9 +5029,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "4ca59411-3106-8900-37d8-4604dfb464f1",
+			"guid": "f0675aaf-eea6-560f-cd67-1b566a424beb",
 			"name": "water_gloss",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/water_gloss.dds",
 				"%engine%/engineassets/textures/water_gloss.dds.1",
@@ -5052,9 +5052,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "ce22f7cc-9515-911d-c51e-6a3c09c29474",
+			"guid": "32323f5d-642f-56bd-422e-9cca35436600",
 			"name": "white",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/white.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5068,9 +5068,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "7b8c3940-7e17-ae6c-40f6-2cd49a952d7c",
+			"guid": "60ce541a-deb1-e167-c9b1-67a4a1a15755",
 			"name": "white_cm",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [
 				"%engine%/engineassets/textures/white_cm.dds",
 				"%engine%/engineassets/textures/white_cm.dds.1",
@@ -5090,9 +5090,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "870df0e9-576d-6378-028e-ab895cb97c9d",
+			"guid": "aa2c5b2a-9aec-242b-de91-bc518ed63b60",
 			"name": "white_cm_diff",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/white_cm_diff.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5106,9 +5106,9 @@
 		},
 		{
 			"type": "Texture",
-			"guid": "9a248014-8c0f-9e5c-2636-c6e11932a775",
+			"guid": "69623e19-d750-0fc3-057e-19a110e0fd86",
 			"name": "white_ddn",
-			"timestamp": 132175193080000000,
+			"timestamp": 132201065220000000,
 			"files": [ "%engine%/engineassets/textures/white_ddn.dds" ],
 			"workFiles": [ ],
 			"source": "",
@@ -5832,7 +5832,7 @@
 			"type": "Level",
 			"guid": "90f6f9d4-0804-283c-02dc-2d438ba572bd",
 			"name": "example",
-			"timestamp": 1574768952,
+			"timestamp": 1574769107,
 			"files": [ "Levels/example/example.level" ],
 			"workFiles": [ ],
 			"source": "",
